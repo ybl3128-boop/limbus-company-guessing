@@ -49,18 +49,20 @@ npm run update:data
 
 이 명령은 위키 동기화, 일일 정답표 보충, 데이터 검사, 중복 검사를 순서대로 실행합니다.
 
-Windows 작업 스케줄러에서는 다음 PowerShell 스크립트를 매주 금요일 실행하도록 등록할 수 있습니다.
+GitHub Actions가 매주 금요일 자동으로 데이터를 갱신하도록 설정되어 있습니다.
 
 ```text
-scripts/run-update.ps1
+.github/workflows/update-data.yml
 ```
 
-작업 스케줄러 권장 설정:
+자동 업데이트 설정:
 
-- 트리거: 매주 금요일 새벽 4시
-- 프로그램: `powershell.exe`
-- 인수: `-NoProfile -ExecutionPolicy Bypass -File "C:\Users\User\Desktop\gamemaker\림버스컴퍼니맞추기\scripts\run-update.ps1"`
-- 시작 위치: `C:\Users\User\Desktop\gamemaker\림버스컴퍼니맞추기`
+- 주기: 매주 금요일 오전 4시(KST)
+- 실행 환경: GitHub Actions
+- 동작: 위키 동기화 → 정답표 보충 → 데이터 검사 → 중복 검사 → 변경 시 자동 커밋
+- 데이터가 변경되면 GitHub Pages 배포 workflow가 자동으로 다시 실행됩니다.
+
+수동으로 즉시 실행하려면 저장소의 Actions → `Update identity data` → `Run workflow`를 선택합니다.
 
 ## 정적 배포
 
