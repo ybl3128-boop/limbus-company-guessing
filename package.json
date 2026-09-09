@@ -1,0 +1,13 @@
+{
+  "name": "limbus-company-guessing-game",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-wiki.mjs",
+    "generate:puzzles": "node scripts/generate-puzzles.mjs",
+    "update:data": "node scripts/update-data.mjs",
+    "check:game-data": "node scripts/check-game-data.mjs",
+    "check:duplicates": "node scripts/check-duplicates.mjs",
+    "serve": "python -m http.server 8080"
+  }
+}

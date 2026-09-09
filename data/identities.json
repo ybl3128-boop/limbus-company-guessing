@@ -1,0 +1,4007 @@
+[
+  {
+    "id": "wiki-5421",
+    "name": "Blade Lineage Mentor Meursault",
+    "nameKo": "검계 우두머리 뫼르소",
+    "sinner": "뫼르소",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "조직",
+      "검계"
+    ],
+    "affiliationPrimary": "검계",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Blade_Lineage_Mentor_Meursault",
+    "sourceRevision": 186949,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Blade_Lineage_Mentor_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-11537",
+    "name": "Blade Lineage Salsu Don Quixote",
+    "nameKo": "검계 살수 돈키호테",
+    "sinner": "돈키호테",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "조직",
+      "검계"
+    ],
+    "affiliationPrimary": "검계",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Blade_Lineage_Salsu_Don_Quixote",
+    "sourceRevision": 186365,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Blade_Lineage_Salsu_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-7089",
+    "name": "Blade Lineage Salsu Faust",
+    "nameKo": "검계 살수 파우스트",
+    "sinner": "파우스트",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "조직",
+      "검계"
+    ],
+    "affiliationPrimary": "검계",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Blade_Lineage_Salsu_Faust",
+    "sourceRevision": 184481,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Blade_Lineage_Salsu_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-5030",
+    "name": "Blade Lineage Salsu Outis",
+    "nameKo": "검계 살수 오티스",
+    "sinner": "오티스",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "조직",
+      "검계"
+    ],
+    "affiliationPrimary": "검계",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Blade_Lineage_Salsu_Outis",
+    "sourceRevision": 188683,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Blade_Lineage_Salsu_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-2417",
+    "name": "Blade Lineage Salsu Sinclair",
+    "nameKo": "검계 살수 싱클레어",
+    "sinner": "싱클레어",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "조직",
+      "검계"
+    ],
+    "affiliationPrimary": "검계",
+    "keywords": [
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Blade_Lineage_Salsu_Sinclair",
+    "sourceRevision": 188209,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Blade_Lineage_Salsu_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-900",
+    "name": "Blade Lineage Salsu Yi Sang",
+    "nameKo": "검계 살수 이상",
+    "sinner": "이상",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "조직",
+      "검계"
+    ],
+    "affiliationPrimary": "검계",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Blade_Lineage_Salsu_Yi_Sang",
+    "sourceRevision": 183988,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Blade_Lineage_Salsu_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-35606",
+    "name": "Blade of the House of Spiders Ryōshū",
+    "nameKo": "거미집의 검 료슈",
+    "sinner": "료슈",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "거미집",
+      "소지",
+      "디휘 스타"
+    ],
+    "affiliationPrimary": "거미집",
+    "keywords": [
+      "화상",
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Blade_of_the_House_of_Spiders_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 189049,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Blade_of_the_House_of_Spiders_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-20696",
+    "name": "Cinq Assoc. East Section 3 Don Quixote",
+    "nameKo": "동부 섕크 협회 3과 돈키호테",
+    "sinner": "돈키호테",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "섕크 협회"
+    ],
+    "affiliationPrimary": "섕크 협회",
+    "keywords": [
+      "화상",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Cinq_Assoc._East_Section_3_Don_Quixote",
+    "sourceRevision": 186371,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Cinq_Assoc._East_Section_3_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-38706",
+    "name": "Cinq Assoc. East Section 3 Hong Lu",
+    "nameKo": "동부 섕크 협회 3과 홍루",
+    "sinner": "홍루",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "섕크 협회"
+    ],
+    "affiliationPrimary": "섕크 협회",
+    "keywords": [
+      "화상",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Cinq_Assoc._East_Section_3_Hong_Lu",
+    "sourceRevision": 189035,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Cinq_Assoc._East_Section_3_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-5610",
+    "name": "Cinq Assoc. South Section 4 Director Sinclair",
+    "nameKo": "남부 섕크 협회 4과 부장 싱클레어",
+    "sinner": "싱클레어",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "섕크 협회"
+    ],
+    "affiliationPrimary": "섕크 협회",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Cinq_Assoc._South_Section_4_Director_Sinclair",
+    "sourceRevision": 188211,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Cinq_Assoc._South_Section_4_Director_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-4016",
+    "name": "Cinq Assoc. South Section 4 Outis",
+    "nameKo": "남부 섕크 협회 4과 오티스",
+    "sinner": "오티스",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "섕크 협회"
+    ],
+    "affiliationPrimary": "섕크 협회",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Cinq_Assoc._South_Section_4_Outis",
+    "sourceRevision": 188542,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Cinq_Assoc._South_Section_4_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-4714",
+    "name": "Cinq Assoc. South Section 5 Director Don Quixote",
+    "nameKo": "남부 섕크 협회 5과 부장 돈키호테",
+    "sinner": "돈키호테",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "섕크 협회"
+    ],
+    "affiliationPrimary": "섕크 협회",
+    "keywords": [],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Cinq_Assoc._South_Section_5_Director_Don_Quixote",
+    "sourceRevision": 186367,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Cinq_Assoc._South_Section_5_Director_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-15832",
+    "name": "Cinq Assoc. West Section 3 Meursault",
+    "nameKo": "서부 섕크 협회 3과 뫼르소",
+    "sinner": "뫼르소",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "해결사",
+      "섕크 협회"
+    ],
+    "affiliationPrimary": "섕크 협회",
+    "keywords": [
+      "파열",
+      "호흡"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Cinq_Assoc._West_Section_3_Meursault",
+    "sourceRevision": 186951,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Cinq_Assoc._West_Section_3_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-37599",
+    "name": "Dawn Office Fixer Faust",
+    "nameKo": "새벽 사무소 해결사 파우스트",
+    "sinner": "파우스트",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "새벽 사무소"
+    ],
+    "affiliationPrimary": "새벽 사무소",
+    "keywords": [
+      "화상",
+      "진동"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dawn_Office_Fixer_Faust",
+    "sourceRevision": 188988,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dawn_Office_Fixer_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-646",
+    "name": "Dawn Office Fixer Sinclair",
+    "nameKo": "새벽 사무소 해결사 싱클레어",
+    "sinner": "싱클레어",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "새벽 사무소"
+    ],
+    "affiliationPrimary": "새벽 사무소",
+    "keywords": [
+      "화상",
+      "충전"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dawn_Office_Fixer_Sinclair",
+    "sourceRevision": 188212,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dawn_Office_Fixer_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-37601",
+    "name": "Dawn Office Rep Gregor",
+    "nameKo": "새벽 사무소 대표 그레고르",
+    "sinner": "그레고르",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "새벽 사무소"
+    ],
+    "affiliationPrimary": "새벽 사무소",
+    "keywords": [
+      "화상",
+      "진동"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dawn_Office_Rep_Gregor",
+    "sourceRevision": 188843,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dawn_Office_Rep_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-8036",
+    "name": "Dead Rabbits Boss Meursault",
+    "nameKo": "데드래빗츠 보스 뫼르소",
+    "sinner": "뫼르소",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "조직",
+      "데드래빗츠"
+    ],
+    "affiliationPrimary": "데드래빗츠",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dead_Rabbits_Boss_Meursault",
+    "sourceRevision": 186945,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dead_Rabbits_Boss_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-15425",
+    "name": "Devyat' Assoc. North Section 3 Rodion",
+    "nameKo": "북부 제뱌찌 협회 3과 로쟈",
+    "sinner": "로쟈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "제뱌찌 협회"
+    ],
+    "affiliationPrimary": "제뱌찌 협회",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Devyat'_Assoc._North_Section_3_Rodion",
+    "sourceRevision": 188055,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Devyat'_Assoc._North_Section_3_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-18284",
+    "name": "Devyat' Assoc. North Section 3 Sinclair",
+    "nameKo": "북부 제뱌찌 협회 3과 싱클레어",
+    "sinner": "싱클레어",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "제뱌찌 협회"
+    ],
+    "affiliationPrimary": "제뱌찌 협회",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Devyat'_Assoc._North_Section_3_Sinclair",
+    "sourceRevision": 188213,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Devyat'_Assoc._North_Section_3_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-12645",
+    "name": "Dieci Assoc. South Section 4 Director Meursault",
+    "nameKo": "남부 디에치 협회 4과 부장 뫼르소",
+    "sinner": "뫼르소",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "디에치 협회"
+    ],
+    "affiliationPrimary": "디에치 협회",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dieci_Assoc._South_Section_4_Director_Meursault",
+    "sourceRevision": 186950,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dieci_Assoc._South_Section_4_Director_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-11845",
+    "name": "Dieci Assoc. South Section 4 Hong Lu",
+    "nameKo": "남부 디에치 협회 4과 홍루",
+    "sinner": "홍루",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "디에치 협회"
+    ],
+    "affiliationPrimary": "디에치 협회",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dieci_Assoc._South_Section_4_Hong_Lu",
+    "sourceRevision": 187126,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dieci_Assoc._South_Section_4_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-1908",
+    "name": "Dieci Assoc. South Section 4 Rodion",
+    "nameKo": "남부 디에치 협회 4과 로쟈",
+    "sinner": "로쟈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "디에치 협회"
+    ],
+    "affiliationPrimary": "디에치 협회",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dieci_Assoc._South_Section_4_Rodion",
+    "sourceRevision": 189080,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dieci_Assoc._South_Section_4_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-6655",
+    "name": "Dieci Assoc. South Section 4 Yi Sang",
+    "nameKo": "남부 디에치 협회 4과 이상",
+    "sinner": "이상",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "디에치 협회"
+    ],
+    "affiliationPrimary": "디에치 협회",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dieci_Assoc._South_Section_4_Yi_Sang",
+    "sourceRevision": 183986,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dieci_Assoc._South_Section_4_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-1544",
+    "name": "District 20 Yurodivy Hong Lu",
+    "nameKo": "20구 유로지비 홍루",
+    "sinner": "홍루",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "조직",
+      "유로지비"
+    ],
+    "affiliationPrimary": "유로지비",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/District_20_Yurodivy_Hong_Lu",
+    "sourceRevision": 187127,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/District_20_Yurodivy_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-4162",
+    "name": "District 20 Yurodivy Ryōshū",
+    "nameKo": "20구 유로지비 료슈",
+    "sinner": "료슈",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "조직",
+      "유로지비"
+    ],
+    "affiliationPrimary": "유로지비",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/District_20_Yurodivy_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186729,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/District_20_Yurodivy_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-29800",
+    "name": "Drifting Blade of Hongyuan Ryōshū",
+    "nameKo": "홍원 방랑무사 료슈",
+    "sinner": "료슈",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "H사"
+    ],
+    "affiliationPrimary": "H사",
+    "keywords": [
+      "파열",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Drifting_Blade_of_Hongyuan_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186737,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Drifting_Blade_of_Hongyuan_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-681",
+    "name": "Edgar Family Butler Ishmael",
+    "nameKo": "에드가 가문 버틀러 이스마엘",
+    "sinner": "이스마엘",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "해결사",
+      "에드가 가문"
+    ],
+    "affiliationPrimary": "에드가 가문",
+    "keywords": [
+      "침잠",
+      "호흡"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Edgar_Family_Butler_Ishmael",
+    "sourceRevision": 187888,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Edgar_Family_Butler_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-2942",
+    "name": "Edgar Family Chief Butler Ryōshū",
+    "nameKo": "에드가 가문 치프 버틀러 료슈",
+    "sinner": "료슈",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "해결사",
+      "에드가 가문"
+    ],
+    "affiliationPrimary": "에드가 가문",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Edgar_Family_Chief_Butler_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186733,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Edgar_Family_Chief_Butler_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-5003",
+    "name": "Edgar Family Heir Gregor",
+    "nameKo": "에드가 가문 승계자 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "에드가 가문"
+    ],
+    "affiliationPrimary": "에드가 가문",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Edgar_Family_Heir_Gregor",
+    "sourceRevision": 188836,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Edgar_Family_Heir_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-6785",
+    "name": "Effloresced E.G.O::Spicebush Yi Sang",
+    "nameKo": "개화 E.G.O::동백 이상",
+    "sinner": "이상",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "기술해방연합",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "진동",
+      "침잠"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Effloresced_E.G.O%3A%3ASpicebush_Yi_Sang",
+    "sourceRevision": 183989,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Effloresced_E.G.O%3A%3ASpicebush_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-24347",
+    "name": "Family Hierarch Candidate Ishmael",
+    "nameKo": "가주 후보 이스마엘",
+    "sinner": "이스마엘",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "H사",
+      "가주 후보",
+      "가씨 가문"
+    ],
+    "affiliationPrimary": "H사",
+    "keywords": [
+      "파열",
+      "호흡"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Family_Hierarch_Candidate_Ishmael",
+    "sourceRevision": 187896,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Family_Hierarch_Candidate_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-16303",
+    "name": "Fanghunt Office Fixer Hong Lu",
+    "nameKo": "어금니 사무소 해결사 홍루",
+    "sinner": "홍루",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "해결사",
+      "어금니 사무소"
+    ],
+    "affiliationPrimary": "어금니 사무소",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Fanghunt_Office_Fixer_Hong_Lu",
+    "sourceRevision": 187123,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Fanghunt_Office_Fixer_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-20695",
+    "name": "Firefist Office Survivor Gregor",
+    "nameKo": "불주먹 사무소 생존자 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "해결사"
+    ],
+    "affiliationPrimary": "해결사",
+    "keywords": [
+      "화상"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Firefist_Office_Survivor_Gregor",
+    "sourceRevision": 188838,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Firefist_Office_Survivor_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-19190",
+    "name": "Full-Stop Office Fixer Heathcliff",
+    "nameKo": "마침표 사무소 해결사 히스클리프",
+    "sinner": "히스클리프",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "마침표 사무소"
+    ],
+    "affiliationPrimary": "마침표 사무소",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Full-Stop_Office_Fixer_Heathcliff",
+    "sourceRevision": 187713,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Full-Stop_Office_Fixer_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-19189",
+    "name": "Full-Stop Office Rep Hong Lu",
+    "nameKo": "마침표 사무소 대표 홍루",
+    "sinner": "홍루",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "마침표 사무소"
+    ],
+    "affiliationPrimary": "마침표 사무소",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Full-Stop_Office_Rep_Hong_Lu",
+    "sourceRevision": 187128,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Full-Stop_Office_Rep_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-6999",
+    "name": "G Corp. Head Manager Outis",
+    "nameKo": "G사 부장 오티스",
+    "sinner": "오티스",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "G사"
+    ],
+    "affiliationPrimary": "G사",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/G_Corp._Head_Manager_Outis",
+    "sourceRevision": 188540,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/G_Corp._Head_Manager_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-9096",
+    "name": "G Corp. Manager Corporal Gregor",
+    "nameKo": "G사 일등대리 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "G사"
+    ],
+    "affiliationPrimary": "G사",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/G_Corp._Manager_Corporal_Gregor",
+    "sourceRevision": 188833,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/G_Corp._Manager_Corporal_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-23368",
+    "name": "Heishou Pack - Mao Branch Adept Faust",
+    "nameKo": "흑수 - 묘 필두 파우스트",
+    "sinner": "파우스트",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "H사",
+      "흑수",
+      "흑수 필두",
+      "흑수 - 묘"
+    ],
+    "affiliationPrimary": "흑수",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Heishou_Pack_-_Mao_Branch_Adept_Faust",
+    "sourceRevision": 184485,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Heishou_Pack_-_Mao_Branch_Adept_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-21210",
+    "name": "Heishou Pack - Mao Branch Outis",
+    "nameKo": "흑수 - 묘 오티스",
+    "sinner": "오티스",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "H사",
+      "흑수",
+      "흑수 - 묘"
+    ],
+    "affiliationPrimary": "흑수",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Heishou_Pack_-_Mao_Branch_Outis",
+    "sourceRevision": 188550,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Heishou_Pack_-_Mao_Branch_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-21211",
+    "name": "Heishou Pack - Mao Branch Ryōshū",
+    "nameKo": "흑수 - 묘 료슈",
+    "sinner": "료슈",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "H사",
+      "흑수",
+      "흑수 - 묘"
+    ],
+    "affiliationPrimary": "흑수",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Heishou_Pack_-_Mao_Branch_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186735,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Heishou_Pack_-_Mao_Branch_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-22751",
+    "name": "Heishou Pack - Si Branch Gregor",
+    "nameKo": "흑수 - 사 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "H사",
+      "흑수",
+      "흑수 - 사"
+    ],
+    "affiliationPrimary": "흑수",
+    "keywords": [
+      "파열",
+      "호흡"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Heishou_Pack_-_Si_Branch_Gregor",
+    "sourceRevision": 188839,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Heishou_Pack_-_Si_Branch_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-22746",
+    "name": "Heishou Pack - Si Branch Rodion",
+    "nameKo": "흑수 - 사 로쟈",
+    "sinner": "로쟈",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "H사",
+      "흑수",
+      "흑수 - 사"
+    ],
+    "affiliationPrimary": "흑수",
+    "keywords": [
+      "파열",
+      "호흡"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Heishou_Pack_-_Si_Branch_Rodion",
+    "sourceRevision": 188057,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Heishou_Pack_-_Si_Branch_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-29573",
+    "name": "Heishou Pack - Wei Branch Don Quixote",
+    "nameKo": "흑수 - 위 돈키호테",
+    "sinner": "돈키호테",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "H사",
+      "흑수",
+      "흑수 - 위"
+    ],
+    "affiliationPrimary": "흑수",
+    "keywords": [
+      "파열",
+      "침잠"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Heishou_Pack_-_Wei_Branch_Don_Quixote",
+    "sourceRevision": 188068,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Heishou_Pack_-_Wei_Branch_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-26014",
+    "name": "Heishou Pack - Wu Branch Adept Yi Sang",
+    "nameKo": "흑수 - 오 필두 이상",
+    "sinner": "이상",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "H사",
+      "가씨 가문",
+      "흑수",
+      "흑수 필두",
+      "흑수 - 오"
+    ],
+    "affiliationPrimary": "흑수",
+    "keywords": [
+      "진동",
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Heishou_Pack_-_Wu_Branch_Adept_Yi_Sang",
+    "sourceRevision": 183979,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Heishou_Pack_-_Wu_Branch_Adept_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-29005",
+    "name": "Heishou Pack - You Branch Adept Heathcliff",
+    "nameKo": "흑수 - 유 필두 히스클리프",
+    "sinner": "히스클리프",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "H사",
+      "흑수",
+      "흑수 필두",
+      "흑수 - 유"
+    ],
+    "affiliationPrimary": "흑수",
+    "keywords": [
+      "화상",
+      "파열"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Heishou_Pack_-_You_Branch_Adept_Heathcliff",
+    "sourceRevision": 187716,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Heishou_Pack_-_You_Branch_Adept_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-26015",
+    "name": "Heishou Pack - You Branch Sinclair",
+    "nameKo": "흑수 - 유 싱클레어",
+    "sinner": "싱클레어",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "H사",
+      "흑수",
+      "흑수 - 유"
+    ],
+    "affiliationPrimary": "흑수",
+    "keywords": [
+      "화상",
+      "파열"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Heishou_Pack_-_You_Branch_Sinclair",
+    "sourceRevision": 188216,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Heishou_Pack_-_You_Branch_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-7532",
+    "name": "Hook Office Fixer Hong Lu",
+    "nameKo": "갈고리 사무소 해결사 홍루",
+    "sinner": "홍루",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "뒷골목",
+      "해결사",
+      "갈고리 사무소"
+    ],
+    "affiliationPrimary": "갈고리 사무소",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Hook_Office_Fixer_Hong_Lu",
+    "sourceRevision": 187122,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Hook_Office_Fixer_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-28967",
+    "name": "Jeong's Office Rep Ishmael",
+    "nameKo": "정 사무소 대표 이스마엘",
+    "sinner": "이스마엘",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "외우피 사무소",
+      "정 사무소"
+    ],
+    "affiliationPrimary": "외우피 사무소",
+    "keywords": [
+      "진동",
+      "침잠"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Jeong's_Office_Rep_Ishmael",
+    "sourceRevision": 187897,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Jeong's_Office_Rep_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-3271",
+    "name": "K Corp. Class 3 Excision Staff Hong Lu",
+    "nameKo": "K사 3등급 적출직 직원 홍루",
+    "sinner": "홍루",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "K사"
+    ],
+    "affiliationPrimary": "K사",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/K_Corp._Class_3_Excision_Staff_Hong_Lu",
+    "sourceRevision": 187125,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/K_Corp._Class_3_Excision_Staff_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-421",
+    "name": "Kurokumo Clan Captain Gregor",
+    "nameKo": "흑운회 부조장 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "조직",
+      "흑운회"
+    ],
+    "affiliationPrimary": "흑운회",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Kurokumo_Clan_Captain_Gregor",
+    "sourceRevision": 188827,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Kurokumo_Clan_Captain_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-19974",
+    "name": "Kurokumo Clan Captain Ishmael",
+    "nameKo": "흑운회 부조장 이스마엘",
+    "sinner": "이스마엘",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "조직",
+      "흑운회"
+    ],
+    "affiliationPrimary": "흑운회",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Kurokumo_Clan_Captain_Ishmael",
+    "sourceRevision": 187895,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Kurokumo_Clan_Captain_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-19975",
+    "name": "Kurokumo Clan Wakashu Heathcliff",
+    "nameKo": "흑운회 와카슈 히스클리프",
+    "sinner": "히스클리프",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "조직",
+      "흑운회"
+    ],
+    "affiliationPrimary": "흑운회",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Kurokumo_Clan_Wakashu_Heathcliff",
+    "sourceRevision": 187714,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Kurokumo_Clan_Wakashu_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-4188",
+    "name": "Kurokumo Clan Wakashu Hong Lu",
+    "nameKo": "흑운회 와카슈 홍루",
+    "sinner": "홍루",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "조직",
+      "흑운회"
+    ],
+    "affiliationPrimary": "흑운회",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Kurokumo_Clan_Wakashu_Hong_Lu",
+    "sourceRevision": 187106,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Kurokumo_Clan_Wakashu_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-4667",
+    "name": "Kurokumo Clan Wakashu Rodion",
+    "nameKo": "흑운회 와카슈 로쟈",
+    "sinner": "로쟈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "조직",
+      "흑운회"
+    ],
+    "affiliationPrimary": "흑운회",
+    "keywords": [
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Kurokumo_Clan_Wakashu_Rodion",
+    "sourceRevision": 188051,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Kurokumo_Clan_Wakashu_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-7687",
+    "name": "Kurokumo Clan Wakashu Ryōshū",
+    "nameKo": "흑운회 와카슈 료슈",
+    "sinner": "료슈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "조직",
+      "흑운회"
+    ],
+    "affiliationPrimary": "흑운회",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Kurokumo_Clan_Wakashu_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186730,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Kurokumo_Clan_Wakashu_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-30191",
+    "name": "LCA Udjat Vanguard Team 3 Leader Outis",
+    "nameKo": "LCA 우제트 선봉 3팀 팀장 오티스",
+    "sinner": "오티스",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCA"
+    ],
+    "affiliationPrimary": "LCA",
+    "keywords": [
+      "진동",
+      "침잠"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCA_Udjat_Vanguard_Team_3_Leader_Outis",
+    "sourceRevision": 188552,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCA_Udjat_Vanguard_Team_3_Leader_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-10719",
+    "name": "LCB Sinner Don Quixote",
+    "nameKo": "LCB 수감자 돈키호테",
+    "sinner": "돈키호테",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Don_Quixote",
+    "sourceRevision": 186350,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-3668",
+    "name": "LCB Sinner Faust",
+    "nameKo": "LCB 수감자 파우스트",
+    "sinner": "파우스트",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Faust",
+    "sourceRevision": 187081,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-4431",
+    "name": "LCB Sinner Gregor",
+    "nameKo": "LCB 수감자 그레고르",
+    "sinner": "그레고르",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Gregor",
+    "sourceRevision": 188770,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-6886",
+    "name": "LCB Sinner Heathcliff",
+    "nameKo": "LCB 수감자 히스클리프",
+    "sinner": "히스클리프",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Heathcliff",
+    "sourceRevision": 187688,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-9879",
+    "name": "LCB Sinner Hong Lu",
+    "nameKo": "LCB 수감자 홍루",
+    "sinner": "홍루",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "파열",
+      "침잠"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Hong_Lu",
+    "sourceRevision": 187078,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-11849",
+    "name": "LCB Sinner Ishmael",
+    "nameKo": "LCB 수감자 이스마엘",
+    "sinner": "이스마엘",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Ishmael",
+    "sourceRevision": 188919,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-10303",
+    "name": "LCB Sinner Meursault",
+    "nameKo": "LCB 수감자 뫼르소",
+    "sinner": "뫼르소",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Meursault",
+    "sourceRevision": 186941,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-3122",
+    "name": "LCB Sinner Outis",
+    "nameKo": "LCB 수감자 오티스",
+    "sinner": "오티스",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Outis",
+    "sourceRevision": 188512,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-2327",
+    "name": "LCB Sinner Rodion",
+    "nameKo": "LCB 수감자 로쟈",
+    "sinner": "로쟈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Rodion",
+    "sourceRevision": 187986,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-9905",
+    "name": "LCB Sinner Ryōshū",
+    "nameKo": "LCB 수감자 료슈",
+    "sinner": "료슈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB",
+      "천살성"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186740,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-7235",
+    "name": "LCB Sinner Sinclair",
+    "nameKo": "LCB 수감자 싱클레어",
+    "sinner": "싱클레어",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Sinclair",
+    "sourceRevision": 188170,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-6549",
+    "name": "LCB Sinner Yi Sang",
+    "nameKo": "LCB 수감자 이상",
+    "sinner": "이상",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCB"
+    ],
+    "affiliationPrimary": "LCB",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Yi_Sang",
+    "sourceRevision": 184072,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-10148",
+    "name": "LCCB Assistant Manager Ishmael",
+    "nameKo": "LCCB 대리 이스마엘",
+    "sinner": "이스마엘",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCCB"
+    ],
+    "affiliationPrimary": "LCCB",
+    "keywords": [
+      "진동",
+      "파열"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCCB_Assistant_Manager_Ishmael",
+    "sourceRevision": 187886,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCCB_Assistant_Manager_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-8062",
+    "name": "LCCB Assistant Manager Rodion",
+    "nameKo": "LCCB 대리 로쟈",
+    "sinner": "로쟈",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCCB"
+    ],
+    "affiliationPrimary": "LCCB",
+    "keywords": [],
+    "skill3Sin": "질투",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCCB_Assistant_Manager_Rodion",
+    "sourceRevision": 188198,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCCB_Assistant_Manager_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-6711",
+    "name": "LCCB Assistant Manager Ryōshū",
+    "nameKo": "LCCB 대리 료슈",
+    "sinner": "료슈",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCCB"
+    ],
+    "affiliationPrimary": "LCCB",
+    "keywords": [
+      "진동",
+      "파열",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCCB_Assistant_Manager_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186726,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCCB_Assistant_Manager_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-36523",
+    "name": "LCD OSIR Team Ishmael",
+    "nameKo": "LCD 현장추리팀 이스마엘",
+    "sinner": "이스마엘",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCD",
+      "검계",
+      "조직"
+    ],
+    "affiliationPrimary": "LCD",
+    "keywords": [
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCD_OSIR_Team_Ishmael",
+    "sourceRevision": 187899,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCD_OSIR_Team_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-33670",
+    "name": "LCE E.G.O::AEDD Gregor",
+    "nameKo": "LCE E.G.O::AEDD 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCE",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCE_E.G.O%3A%3AAEDD_Gregor",
+    "sourceRevision": 188842,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCE_E.G.O%3A%3AAEDD_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-19524",
+    "name": "LCE E.G.O::Ardor Blossom Star Faust",
+    "nameKo": "LCE E.G.O::홍염살 파우스트",
+    "sinner": "파우스트",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCE",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "화상"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCE_E.G.O%3A%3AArdor_Blossom_Star_Faust",
+    "sourceRevision": 188986,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCE_E.G.O%3A%3AArdor_Blossom_Star_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-37963",
+    "name": "LCE E.G.O::Dimension Shredder Yi Sang",
+    "nameKo": "LCE E.G.O::차원찢개 이상",
+    "sinner": "이상",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCE",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCE_E.G.O%3A%3ADimension_Shredder_Yi_Sang",
+    "sourceRevision": 188928,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCE_E.G.O%3A%3ADimension_Shredder_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-19523",
+    "name": "LCE E.G.O::Lantern Yi Sang",
+    "nameKo": "LCE E.G.O::초롱 이상",
+    "sinner": "이상",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "림버스 컴퍼니",
+      "LCE",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCE_E.G.O%3A%3ALantern_Yi_Sang",
+    "sourceRevision": 183987,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCE_E.G.O%3A%3ALantern_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-20217",
+    "name": "Liu Assoc. South Section 3 Yi Sang",
+    "nameKo": "남부 리우 협회 3과 이상",
+    "sinner": "이상",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "리우 협회"
+    ],
+    "affiliationPrimary": "리우 협회",
+    "keywords": [
+      "화상"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Liu_Assoc._South_Section_3_Yi_Sang",
+    "sourceRevision": 183993,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Liu_Assoc._South_Section_3_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-8467",
+    "name": "Liu Assoc. South Section 4 Director Rodion",
+    "nameKo": "남부 리우 협회 4과 부장 로쟈",
+    "sinner": "로쟈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "리우 협회"
+    ],
+    "affiliationPrimary": "리우 협회",
+    "keywords": [
+      "화상"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Liu_Assoc._South_Section_4_Director_Rodion",
+    "sourceRevision": 188054,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Liu_Assoc._South_Section_4_Director_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-8332",
+    "name": "Liu Assoc. South Section 4 Ishmael",
+    "nameKo": "남부 리우 협회 4과 이스마엘",
+    "sinner": "이스마엘",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "리우 협회"
+    ],
+    "affiliationPrimary": "리우 협회",
+    "keywords": [
+      "화상"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Liu_Assoc._South_Section_4_Ishmael",
+    "sourceRevision": 187891,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Liu_Assoc._South_Section_4_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-3717",
+    "name": "Liu Assoc. South Section 4 Ryōshū",
+    "nameKo": "남부 리우 협회 4과 료슈",
+    "sinner": "료슈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "리우 협회"
+    ],
+    "affiliationPrimary": "리우 협회",
+    "keywords": [
+      "화상"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Liu_Assoc._South_Section_4_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186728,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Liu_Assoc._South_Section_4_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-2505",
+    "name": "Liu Assoc. South Section 5 Hong Lu",
+    "nameKo": "남부 리우 협회 5과 홍루",
+    "sinner": "홍루",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "리우 협회"
+    ],
+    "affiliationPrimary": "리우 협회",
+    "keywords": [
+      "화상"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Liu_Assoc._South_Section_5_Hong_Lu",
+    "sourceRevision": 187120,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Liu_Assoc._South_Section_5_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-55",
+    "name": "Liu Assoc. South Section 6 Gregor",
+    "nameKo": "남부 리우 협회 6과 그레고르",
+    "sinner": "그레고르",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "리우 협회"
+    ],
+    "affiliationPrimary": "리우 협회",
+    "keywords": [
+      "화상"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Liu_Assoc._South_Section_6_Gregor",
+    "sourceRevision": 188785,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Liu_Assoc._South_Section_6_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-11330",
+    "name": "Liu Assoc. South Section 6 Meursault",
+    "nameKo": "남부 리우 협회 6과 뫼르소",
+    "sinner": "뫼르소",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "리우 협회"
+    ],
+    "affiliationPrimary": "리우 협회",
+    "keywords": [
+      "화상"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Liu_Assoc._South_Section_6_Meursault",
+    "sourceRevision": 186942,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Liu_Assoc._South_Section_6_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-9547",
+    "name": "Lobotomy Corp. Remnant Faust",
+    "nameKo": "살아남은 로보토미 직원 파우스트",
+    "sinner": "파우스트",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "해결사",
+      "로보토미 지부"
+    ],
+    "affiliationPrimary": "로보토미 지부",
+    "keywords": [
+      "파열",
+      "호흡"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_Corp._Remnant_Faust",
+    "sourceRevision": 184475,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_Corp._Remnant_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-33313",
+    "name": "Lobotomy E.G.O::Faint Aroma & Solitude Ryōshū",
+    "nameKo": "로보토미 E.G.O::희미한 향기와 고독 료슈",
+    "sinner": "료슈",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "로보토미 본사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "진동",
+      "침잠"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3AFaint_Aroma_%26_Solitude_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 188067,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3AFaint_Aroma_%26_Solitude_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-33314",
+    "name": "Lobotomy E.G.O::Hornet【Alteration】Meursault",
+    "nameKo": "로보토미 E.G.O::호넷【변형】뫼르소",
+    "sinner": "뫼르소",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "로보토미 본사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "화상",
+      "출혈"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3AHornet%E3%80%90Alteration%E3%80%91Meursault",
+    "sourceRevision": 186954,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3AHornet%E3%80%90Alteration%E3%80%91Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-25035",
+    "name": "Lobotomy E.G.O::In the Name of Love and Hate Don Quixote",
+    "nameKo": "로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테",
+    "sinner": "돈키호테",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "로보토미 본사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "파열",
+      "침잠"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3AIn_the_Name_of_Love_and_Hate_Don_Quixote",
+    "sourceRevision": 186376,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3AIn_the_Name_of_Love_and_Hate_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-32618",
+    "name": "Lobotomy E.G.O::Lamp Gregor",
+    "nameKo": "로보토미 E.G.O::램프 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "E.G.O 장비",
+      "림버스 컴퍼니",
+      "LCE"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "화상",
+      "침잠"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3ALamp_Gregor",
+    "sourceRevision": 188841,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3ALamp_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-8396",
+    "name": "Lobotomy E.G.O::Lantern Don Quixote",
+    "nameKo": "로보토미 E.G.O::초롱 돈키호테",
+    "sinner": "돈키호테",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "로보토미 본사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3ALantern_Don_Quixote",
+    "sourceRevision": 186396,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3ALantern_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-5686",
+    "name": "Lobotomy E.G.O::Magic Bullet Outis",
+    "nameKo": "로보토미 E.G.O::마탄 오티스",
+    "sinner": "오티스",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "로보토미 본사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "화상"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3AMagic_Bullet_Outis",
+    "sourceRevision": 188546,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3AMagic_Bullet_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-14929",
+    "name": "Lobotomy E.G.O::Red Eyes & Penitence Ryōshū",
+    "nameKo": "로보토미 E.G.O::붉은 눈과 속죄 료슈",
+    "sinner": "료슈",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "로보토미 본사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3ARed_Eyes_%26_Penitence_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 189060,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3ARed_Eyes_%26_Penitence_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-12068",
+    "name": "Lobotomy E.G.O::Red Sheet Sinclair",
+    "nameKo": "로보토미 E.G.O::홍적 싱클레어",
+    "sinner": "싱클레어",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "기술해방연합",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3ARed_Sheet_Sinclair",
+    "sourceRevision": 188206,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3ARed_Sheet_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-3577",
+    "name": "Lobotomy E.G.O::Regret Faust",
+    "nameKo": "로보토미 E.G.O::후회 파우스트",
+    "sinner": "파우스트",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "로보토미 본사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3ARegret_Faust",
+    "sourceRevision": 184480,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3ARegret_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-7704",
+    "name": "Lobotomy E.G.O::Sloshing Ishmael",
+    "nameKo": "로보토미 E.G.O::출렁임 이스마엘",
+    "sinner": "이스마엘",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "기술해방연합",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "진동",
+      "파열"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3ASloshing_Ishmael",
+    "sourceRevision": 187887,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3ASloshing_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-14931",
+    "name": "Lobotomy E.G.O::Solemn Lament Yi Sang",
+    "nameKo": "로보토미 E.G.O::엄숙한 애도 이상",
+    "sinner": "이상",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "로보토미 본사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3ASolemn_Lament_Yi_Sang",
+    "sourceRevision": 183992,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3ASolemn_Lament_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-6690",
+    "name": "Lobotomy E.G.O::Sunshower Heathcliff",
+    "nameKo": "로보토미 E.G.O::여우비 히스클리프",
+    "sinner": "히스클리프",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "기술해방연합",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "진동",
+      "파열",
+      "침잠"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3ASunshower_Heathcliff",
+    "sourceRevision": 187709,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3ASunshower_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-25036",
+    "name": "Lobotomy E.G.O::The Sword Sharpened with Tears Rodion",
+    "nameKo": "로보토미 E.G.O::눈물로 벼려낸 검 로쟈",
+    "sinner": "로쟈",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "로보토미 본사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3AThe_Sword_Sharpened_with_Tears_Rodion",
+    "sourceRevision": 188058,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3AThe_Sword_Sharpened_with_Tears_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-8885",
+    "name": "Los Mariachis Jefe Sinclair",
+    "nameKo": "마리아치 보스 싱클레어",
+    "sinner": "싱클레어",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "뒷골목",
+      "조직",
+      "마리아치"
+    ],
+    "affiliationPrimary": "마리아치",
+    "keywords": [
+      "침잠",
+      "호흡"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Los_Mariachis_Jefe_Sinclair",
+    "sourceRevision": 188205,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Los_Mariachis_Jefe_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-7344",
+    "name": "Molar Boatworks Fixer Ishmael",
+    "nameKo": "어금니 보트 센터 해결사 이스마엘",
+    "sinner": "이스마엘",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "해결사",
+      "어금니 사무소"
+    ],
+    "affiliationPrimary": "어금니 사무소",
+    "keywords": [
+      "진동",
+      "침잠"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Molar_Boatworks_Fixer_Ishmael",
+    "sourceRevision": 187892,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Molar_Boatworks_Fixer_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-60",
+    "name": "Molar Boatworks Fixer Sinclair",
+    "nameKo": "어금니 보트 센터 해결사 싱클레어",
+    "sinner": "싱클레어",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "해결사",
+      "어금니 사무소"
+    ],
+    "affiliationPrimary": "어금니 사무소",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Molar_Boatworks_Fixer_Sinclair",
+    "sourceRevision": 188207,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Molar_Boatworks_Fixer_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-148",
+    "name": "Molar Office Fixer Outis",
+    "nameKo": "어금니 사무소 해결사 오티스",
+    "sinner": "오티스",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "해결사",
+      "어금니 사무소"
+    ],
+    "affiliationPrimary": "어금니 사무소",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Molar_Office_Fixer_Outis",
+    "sourceRevision": 188545,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Molar_Office_Fixer_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-4467",
+    "name": "Molar Office Fixer Yi Sang",
+    "nameKo": "어금니 사무소 해결사 이상",
+    "sinner": "이상",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "해결사",
+      "어금니 사무소"
+    ],
+    "affiliationPrimary": "어금니 사무소",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Molar_Office_Fixer_Yi_Sang",
+    "sourceRevision": 183984,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Molar_Office_Fixer_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-13839",
+    "name": "MultiCrack Office Fixer Heathcliff",
+    "nameKo": "멀티크랙 사무소 해결사 히스클리프",
+    "sinner": "히스클리프",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "해결사",
+      "멀티크랙 사무소",
+      "기계 융합 생명체"
+    ],
+    "affiliationPrimary": "멀티크랙 사무소",
+    "keywords": [
+      "충전"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/MultiCrack_Office_Fixer_Heathcliff",
+    "sourceRevision": 187707,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/MultiCrack_Office_Fixer_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-13892",
+    "name": "MultiCrack Office Rep Faust",
+    "nameKo": "멀티크랙 사무소 대표 파우스트",
+    "sinner": "파우스트",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "해결사",
+      "멀티크랙 사무소",
+      "기계 융합 생명체"
+    ],
+    "affiliationPrimary": "멀티크랙 사무소",
+    "keywords": [
+      "충전"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/MultiCrack_Office_Rep_Faust",
+    "sourceRevision": 184482,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/MultiCrack_Office_Rep_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-26774",
+    "name": "N Corp. E.G.O::Contempt, Awe Ryōshū",
+    "nameKo": "N사 E.G.O::경멸, 경외 료슈",
+    "sinner": "료슈",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "N사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "출혈",
+      "진동"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/N_Corp._E.G.O%3A%3AContempt%2C_Awe_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186736,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/N_Corp._E.G.O%3A%3AContempt%2C_Awe_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-24729",
+    "name": "N Corp. E.G.O::Fell Bullet Yi Sang",
+    "nameKo": "N사 E.G.O::흉탄 이상",
+    "sinner": "이상",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "N사",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/N_Corp._E.G.O%3A%3AFell_Bullet_Yi_Sang",
+    "sourceRevision": 184002,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/N_Corp._E.G.O%3A%3AFell_Bullet_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-3528",
+    "name": "N Corp. Großhammer Meursault",
+    "nameKo": "N사 큰 망치 뫼르소",
+    "sinner": "뫼르소",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "N사",
+      "N사 광신도"
+    ],
+    "affiliationPrimary": "N사 광신도",
+    "keywords": [],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/N_Corp._Gro%C3%9Fhammer_Meursault",
+    "sourceRevision": 186947,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/N_Corp._Gro%C3%9Fhammer_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-9362",
+    "name": "N Corp. Kleinhammer Heathcliff",
+    "nameKo": "N사 작은 망치 히스클리프",
+    "sinner": "히스클리프",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "N사",
+      "N사 광신도"
+    ],
+    "affiliationPrimary": "N사 광신도",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/N_Corp._Kleinhammer_Heathcliff",
+    "sourceRevision": 187705,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/N_Corp._Kleinhammer_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-620",
+    "name": "N Corp. Mittelhammer Don Quixote",
+    "nameKo": "N사 중간 망치 돈키호테",
+    "sinner": "돈키호테",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "N사",
+      "N사 광신도"
+    ],
+    "affiliationPrimary": "N사 광신도",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/N_Corp._Mittelhammer_Don_Quixote",
+    "sourceRevision": 186400,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/N_Corp._Mittelhammer_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-374",
+    "name": "N Corp. Mittelhammer Rodion",
+    "nameKo": "N사 중간 망치 로쟈",
+    "sinner": "로쟈",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "N사",
+      "N사 광신도"
+    ],
+    "affiliationPrimary": "N사 광신도",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/N_Corp._Mittelhammer_Rodion",
+    "sourceRevision": 188008,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/N_Corp._Mittelhammer_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-29013",
+    "name": "Night Awls Capitano Gregor",
+    "nameKo": "밤의 송곳 카피타노 그레고르",
+    "sinner": "그레고르",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "조직",
+      "밤의 송곳"
+    ],
+    "affiliationPrimary": "밤의 송곳",
+    "keywords": [
+      "출혈",
+      "진동"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Night_Awls_Capitano_Gregor",
+    "sourceRevision": 188840,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Night_Awls_Capitano_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-9894",
+    "name": "Öufi Assoc. South Section 3 Heathcliff",
+    "nameKo": "남부 외우피 협회 3과 히스클리프",
+    "sinner": "히스클리프",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "외우피 협회"
+    ],
+    "affiliationPrimary": "외우피 협회",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/%C3%96ufi_Assoc._South_Section_3_Heathcliff",
+    "sourceRevision": 187711,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/%C3%96ufi_Assoc._South_Section_3_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-4542",
+    "name": "R Corp. 4th Pack Rabbit Heathcliff",
+    "nameKo": "R사 제 4무리 토끼팀 히스클리프",
+    "sinner": "히스클리프",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "R사"
+    ],
+    "affiliationPrimary": "R사",
+    "keywords": [
+      "출혈",
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/R_Corp._4th_Pack_Rabbit_Heathcliff",
+    "sourceRevision": 187708,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/R_Corp._4th_Pack_Rabbit_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-22590",
+    "name": "R Corp. 4th Pack Reindeer Hong Lu",
+    "nameKo": "R사 제 4무리 순록팀 홍루",
+    "sinner": "홍루",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "R사"
+    ],
+    "affiliationPrimary": "R사",
+    "keywords": [
+      "침잠",
+      "충전"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/R_Corp._4th_Pack_Reindeer_Hong_Lu",
+    "sourceRevision": 187130,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/R_Corp._4th_Pack_Reindeer_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-5743",
+    "name": "R Corp. 4th Pack Reindeer Ishmael",
+    "nameKo": "R사 제 4무리 순록팀 이스마엘",
+    "sinner": "이스마엘",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "R사"
+    ],
+    "affiliationPrimary": "R사",
+    "keywords": [
+      "침잠",
+      "충전"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/R_Corp._4th_Pack_Reindeer_Ishmael",
+    "sourceRevision": 187889,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/R_Corp._4th_Pack_Reindeer_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-30097",
+    "name": "R Corp. 4th Pack Reindeer Rodion",
+    "nameKo": "R사 제 4무리 순록팀 로쟈",
+    "sinner": "로쟈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "R사"
+    ],
+    "affiliationPrimary": "R사",
+    "keywords": [
+      "침잠",
+      "충전"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/R_Corp._4th_Pack_Reindeer_Rodion",
+    "sourceRevision": 188059,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/R_Corp._4th_Pack_Reindeer_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-5367",
+    "name": "R Corp. 4th Pack Rhino Meursault",
+    "nameKo": "R사 제 4무리 코뿔소팀 뫼르소",
+    "sinner": "뫼르소",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "R사"
+    ],
+    "affiliationPrimary": "R사",
+    "keywords": [
+      "출혈",
+      "충전"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/R_Corp._4th_Pack_Rhino_Meursault",
+    "sourceRevision": 186948,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/R_Corp._4th_Pack_Rhino_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-1676",
+    "name": "R.B. Chef de Cuisine Ryōshū",
+    "nameKo": "료.고.파. 주방장 료슈",
+    "sinner": "료슈",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "뒷골목",
+      "조직",
+      "료.고.파."
+    ],
+    "affiliationPrimary": "료.고.파.",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/R.B._Chef_de_Cuisine_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186731,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/R.B._Chef_de_Cuisine_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-8186",
+    "name": "R.B. Sous-chef Gregor",
+    "nameKo": "료.고.파. 조수 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "뒷골목",
+      "조직",
+      "료.고.파."
+    ],
+    "affiliationPrimary": "료.고.파.",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/R.B._Sous-chef_Gregor",
+    "sourceRevision": 188800,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/R.B._Sous-chef_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-2838",
+    "name": "Rosespanner Workshop Fixer Gregor",
+    "nameKo": "장미스패너 공방 해결사 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "해결사",
+      "장미스패너 공방"
+    ],
+    "affiliationPrimary": "장미스패너 공방",
+    "keywords": [
+      "진동",
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Rosespanner_Workshop_Fixer_Gregor",
+    "sourceRevision": 188819,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Rosespanner_Workshop_Fixer_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-4877",
+    "name": "Rosespanner Workshop Fixer Meursault",
+    "nameKo": "장미스패너 공방 해결사 뫼르소",
+    "sinner": "뫼르소",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "해결사",
+      "장미스패너 공방"
+    ],
+    "affiliationPrimary": "장미스패너 공방",
+    "keywords": [
+      "진동",
+      "충전"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Rosespanner_Workshop_Fixer_Meursault",
+    "sourceRevision": 186943,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Rosespanner_Workshop_Fixer_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-7676",
+    "name": "Rosespanner Workshop Rep Rodion",
+    "nameKo": "장미스패너 공방 대표 로쟈",
+    "sinner": "로쟈",
+    "season": "시즌 2",
+    "seasonOrder": 2,
+    "affiliation": [
+      "해결사",
+      "장미스패너 공방"
+    ],
+    "affiliationPrimary": "장미스패너 공방",
+    "keywords": [
+      "진동",
+      "충전"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Rosespanner_Workshop_Rep_Rodion",
+    "sourceRevision": 188052,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Rosespanner_Workshop_Rep_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-36520",
+    "name": "S Corp. Ch'unokkun Hong Lu",
+    "nameKo": "S사 춘오쿤 홍루",
+    "sinner": "홍루",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "해결사",
+      "S사"
+    ],
+    "affiliationPrimary": "S사",
+    "keywords": [
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/S_Corp._Ch'unokkun_Hong_Lu",
+    "sourceRevision": 187136,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/S_Corp._Ch'unokkun_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-11023",
+    "name": "Seven Assoc. South Section 4 Faust",
+    "nameKo": "남부 세븐 협회 4과 파우스트",
+    "sinner": "파우스트",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "세븐 협회"
+    ],
+    "affiliationPrimary": "세븐 협회",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Seven_Assoc._South_Section_4_Faust",
+    "sourceRevision": 184479,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Seven_Assoc._South_Section_4_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-8788",
+    "name": "Seven Assoc. South Section 4 Heathcliff",
+    "nameKo": "남부 세븐 협회 4과 히스클리프",
+    "sinner": "히스클리프",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "세븐 협회"
+    ],
+    "affiliationPrimary": "세븐 협회",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Seven_Assoc._South_Section_4_Heathcliff",
+    "sourceRevision": 187706,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Seven_Assoc._South_Section_4_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-7128",
+    "name": "Seven Assoc. South Section 6 Director Outis",
+    "nameKo": "남부 세븐 협회 6과 부장 오티스",
+    "sinner": "오티스",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "세븐 협회"
+    ],
+    "affiliationPrimary": "세븐 협회",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Seven_Assoc._South_Section_6_Director_Outis",
+    "sourceRevision": 188544,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Seven_Assoc._South_Section_6_Director_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-3141",
+    "name": "Seven Assoc. South Section 6 Ryōshū",
+    "nameKo": "남부 세븐 협회 6과 료슈",
+    "sinner": "료슈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "세븐 협회"
+    ],
+    "affiliationPrimary": "세븐 협회",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Seven_Assoc._South_Section_6_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186727,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Seven_Assoc._South_Section_6_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-10415",
+    "name": "Seven Assoc. South Section 6 Yi Sang",
+    "nameKo": "남부 세븐 협회 6과 이상",
+    "sinner": "이상",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "세븐 협회"
+    ],
+    "affiliationPrimary": "세븐 협회",
+    "keywords": [
+      "파열"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Seven_Assoc._South_Section_6_Yi_Sang",
+    "sourceRevision": 183983,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Seven_Assoc._South_Section_6_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-28503",
+    "name": "Shi Assoc. East Section 3 Faust",
+    "nameKo": "동부 시 협회 3과 파우스트",
+    "sinner": "파우스트",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "시 협회"
+    ],
+    "affiliationPrimary": "시 협회",
+    "keywords": [
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Shi_Assoc._East_Section_3_Faust",
+    "sourceRevision": 184530,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Shi_Assoc._East_Section_3_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-9987",
+    "name": "Shi Assoc. South Section 5 Director Don Quixote",
+    "nameKo": "남부 시 협회 5과 부장 돈키호테",
+    "sinner": "돈키호테",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "시 협회"
+    ],
+    "affiliationPrimary": "시 협회",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Shi_Assoc._South_Section_5_Director_Don_Quixote",
+    "sourceRevision": 186361,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Shi_Assoc._South_Section_5_Director_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-9323",
+    "name": "Shi Assoc. South Section 5 Heathcliff",
+    "nameKo": "남부 시 협회 5과 히스클리프",
+    "sinner": "히스클리프",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "시 협회"
+    ],
+    "affiliationPrimary": "시 협회",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Shi_Assoc._South_Section_5_Heathcliff",
+    "sourceRevision": 187704,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Shi_Assoc._South_Section_5_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-10012",
+    "name": "Shi Assoc. South Section 5 Ishmael",
+    "nameKo": "남부 시 협회 5과 이스마엘",
+    "sinner": "이스마엘",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "시 협회"
+    ],
+    "affiliationPrimary": "시 협회",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Shi_Assoc._South_Section_5_Ishmael",
+    "sourceRevision": 187878,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Shi_Assoc._South_Section_5_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-12394",
+    "name": "T Corp. Class 2 Collection Staff Rodion",
+    "nameKo": "T사 2등급 징수직 직원 로쟈",
+    "sinner": "로쟈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "T사"
+    ],
+    "affiliationPrimary": "T사",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/T_Corp._Class_2_Collection_Staff_Rodion",
+    "sourceRevision": 188050,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/T_Corp._Class_2_Collection_Staff_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-12393",
+    "name": "T Corp. Class 3 Collection Staff Don Quixote",
+    "nameKo": "T사 3등급 징수직 직원 돈키호테",
+    "sinner": "돈키호테",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "T사"
+    ],
+    "affiliationPrimary": "T사",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/T_Corp._Class_3_Collection_Staff_Don_Quixote",
+    "sourceRevision": 186369,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/T_Corp._Class_3_Collection_Staff_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-25453",
+    "name": "T Corp. Class 3 VDCU Staff Outis",
+    "nameKo": "T사 3등급 강력징수직 직원 오티스",
+    "sinner": "오티스",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "T사"
+    ],
+    "affiliationPrimary": "T사",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/T_Corp._Class_3_VDCU_Staff_Outis",
+    "sourceRevision": 188551,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/T_Corp._Class_3_VDCU_Staff_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-16302",
+    "name": "The Barber of La Manchaland Outis",
+    "nameKo": "라만차랜드 이발사 오티스",
+    "sinner": "오티스",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "혈귀",
+      "제3권속",
+      "라만차랜드"
+    ],
+    "affiliationPrimary": "라만차랜드",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Barber_of_La_Manchaland_Outis",
+    "sourceRevision": 188549,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Barber_of_La_Manchaland_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-32899",
+    "name": "The House of Spiders: The Index Nursefather Yi Sang",
+    "nameKo": "거미집 검지 아비 이상",
+    "sinner": "이상",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "거미집",
+      "검지",
+      "신탁의 대행자"
+    ],
+    "affiliationPrimary": "거미집",
+    "keywords": [
+      "침잠",
+      "호흡"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Index_Nursefather_Yi_Sang",
+    "sourceRevision": 186177,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Index_Nursefather_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-32362",
+    "name": "The House of Spiders: The Middle Apprentice Ishmael",
+    "nameKo": "거미집 중지 제자 이스마엘",
+    "sinner": "이스마엘",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "거미집",
+      "중지"
+    ],
+    "affiliationPrimary": "거미집",
+    "keywords": [
+      "화상",
+      "출혈"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Middle_Apprentice_Ishmael",
+    "sourceRevision": 187898,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Middle_Apprentice_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-36006",
+    "name": "The House of Spiders: The Middle Nursefather Outis",
+    "nameKo": "거미집 중지 아비 오티스",
+    "sinner": "오티스",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "거미집",
+      "중지",
+      "큰언니"
+    ],
+    "affiliationPrimary": "거미집",
+    "keywords": [
+      "화상",
+      "출혈"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Middle_Nursefather_Outis",
+    "sourceRevision": 188553,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Middle_Nursefather_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-32619",
+    "name": "The House of Spiders: The Pinky Apprentice Sinclair",
+    "nameKo": "거미집 소지 제자 싱클레어",
+    "sinner": "싱클레어",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "거미집"
+    ],
+    "affiliationPrimary": "거미집",
+    "keywords": [
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Pinky_Apprentice_Sinclair",
+    "sourceRevision": 188217,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Pinky_Apprentice_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-33951",
+    "name": "The House of Spiders: The Ring Apprentice Faust",
+    "nameKo": "거미집 약지 제자 파우스트",
+    "sinner": "파우스트",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "거미집",
+      "약지",
+      "신체파",
+      "기계 융합 생명체"
+    ],
+    "affiliationPrimary": "약지",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Ring_Apprentice_Faust",
+    "sourceRevision": 188987,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Ring_Apprentice_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-33952",
+    "name": "The House of Spiders: The Ring Nursefather Hong Lu",
+    "nameKo": "거미집 약지 아비 홍루",
+    "sinner": "홍루",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "거미집",
+      "약지",
+      "신체파",
+      "기계 융합 생명체",
+      "마에스트로"
+    ],
+    "affiliationPrimary": "약지",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Ring_Nursefather_Hong_Lu",
+    "sourceRevision": 187135,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Ring_Nursefather_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-37343",
+    "name": "The House of Spiders: The Thumb Apprentice Heathcliff",
+    "nameKo": "거미집 엄지 제자 히스클리프",
+    "sinner": "히스클리프",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "거미집",
+      "엄지"
+    ],
+    "affiliationPrimary": "거미집",
+    "keywords": [
+      "화상",
+      "진동"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Thumb_Apprentice_Heathcliff",
+    "sourceRevision": 189077,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Thumb_Apprentice_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-37344",
+    "name": "The House of Spiders: The Thumb Nursefather Rodion",
+    "nameKo": "거미집 엄지 아비 로쟈",
+    "sinner": "로쟈",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "엄지",
+      "거미집",
+      "7대 패밀리",
+      "언더보스",
+      "손가락",
+      "연기 전쟁",
+      "전쟁 영웅"
+    ],
+    "affiliationPrimary": "거미집",
+    "keywords": [
+      "화상",
+      "진동",
+      "호흡"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Thumb_Nursefather_Rodion",
+    "sourceRevision": 189076,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Thumb_Nursefather_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-30193",
+    "name": "The Index Proselyte:【Paper Slip】Faust",
+    "nameKo": "검지 수행자:【쪽지】파우스트",
+    "sinner": "파우스트",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "검지"
+    ],
+    "affiliationPrimary": "검지",
+    "keywords": [
+      "침잠",
+      "호흡"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Index_Proselyte%3A%E3%80%90Paper_Slip%E3%80%91Faust",
+    "sourceRevision": 187578,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Index_Proselyte%3A%E3%80%90Paper_Slip%E3%80%91Faust_Profile.png"
+  },
+  {
+    "id": "wiki-30806",
+    "name": "The Index Proxy - Effloresced E.G.O::Procuration Don Quixote",
+    "nameKo": "검지 대행자 - 개화 E.G.O::대행 돈키호테",
+    "sinner": "돈키호테",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "거미집",
+      "검지",
+      "E.G.O 장비"
+    ],
+    "affiliationPrimary": "E.G.O 장비",
+    "keywords": [
+      "침잠",
+      "호흡"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Index_Proxy_-_Effloresced_E.G.O%3A%3AProcuration_Don_Quixote",
+    "sourceRevision": 186375,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Index_Proxy_-_Effloresced_E.G.O%3A%3AProcuration_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-25680",
+    "name": "The Lord of Hongyuan Hong Lu",
+    "nameKo": "홍원 군주 홍루",
+    "sinner": "홍루",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "가씨 가문",
+      "H사"
+    ],
+    "affiliationPrimary": "H사",
+    "keywords": [
+      "파열",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Lord_of_Hongyuan_Hong_Lu",
+    "sourceRevision": 187134,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Lord_of_Hongyuan_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-18690",
+    "name": "The Manager of La Manchaland Don Quixote",
+    "nameKo": "라만차랜드 실장 돈키호테",
+    "sinner": "돈키호테",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "라만차랜드",
+      "혈귀"
+    ],
+    "affiliationPrimary": "라만차랜드",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Manager_of_La_Manchaland_Don_Quixote",
+    "sourceRevision": 186401,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Manager_of_La_Manchaland_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-35273",
+    "name": "The Middle Big Brother Heathcliff",
+    "nameKo": "중지 큰 형님 히스클리프",
+    "sinner": "히스클리프",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "중지"
+    ],
+    "affiliationPrimary": "중지",
+    "keywords": [
+      "화상",
+      "출혈"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Middle_Big_Brother_Heathcliff",
+    "sourceRevision": 187759,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Middle_Big_Brother_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-11930",
+    "name": "The Middle Little Brother Meursault",
+    "nameKo": "중지 작은 아우 뫼르소",
+    "sinner": "뫼르소",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "손가락",
+      "중지"
+    ],
+    "affiliationPrimary": "중지",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Middle_Little_Brother_Meursault",
+    "sourceRevision": 186944,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Middle_Little_Brother_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-21982",
+    "name": "The Middle Little Brother Sinclair",
+    "nameKo": "중지 작은 아우 싱클레어",
+    "sinner": "싱클레어",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "손가락",
+      "중지"
+    ],
+    "affiliationPrimary": "중지",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Middle_Little_Brother_Sinclair",
+    "sourceRevision": 188214,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Middle_Little_Brother_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-2229",
+    "name": "The Middle Little Sister Don Quixote",
+    "nameKo": "중지 작은 아우 돈키호테",
+    "sinner": "돈키호테",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "손가락",
+      "중지"
+    ],
+    "affiliationPrimary": "중지",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Middle_Little_Sister_Don_Quixote",
+    "sourceRevision": 186368,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Middle_Little_Sister_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-2128",
+    "name": "The One Who Grips Faust",
+    "nameKo": "쥐는 자 파우스트",
+    "sinner": "파우스트",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "N사",
+      "N사 광신도"
+    ],
+    "affiliationPrimary": "N사 광신도",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_One_Who_Grips_Faust",
+    "sourceRevision": 184478,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_One_Who_Grips_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-3357",
+    "name": "The One Who Shall Grip Sinclair",
+    "nameKo": "쥐어들 자 싱클레어",
+    "sinner": "싱클레어",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "N사",
+      "N사 광신도"
+    ],
+    "affiliationPrimary": "N사 광신도",
+    "keywords": [
+      "화상",
+      "출혈"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_One_Who_Shall_Grip_Sinclair",
+    "sourceRevision": 188210,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_One_Who_Shall_Grip_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-7455",
+    "name": "The Pequod Captain Ishmael",
+    "nameKo": "피쿼드호 선장 이스마엘",
+    "sinner": "이스마엘",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "피쿼드호"
+    ],
+    "affiliationPrimary": "피쿼드호",
+    "keywords": [
+      "화상",
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Pequod_Captain_Ishmael",
+    "sourceRevision": 187893,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Pequod_Captain_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-357",
+    "name": "The Pequod First Mate Yi Sang",
+    "nameKo": "피쿼드호 일등 항해사 이상",
+    "sinner": "이상",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "피쿼드호"
+    ],
+    "affiliationPrimary": "피쿼드호",
+    "keywords": [
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Pequod_First_Mate_Yi_Sang",
+    "sourceRevision": 183985,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Pequod_First_Mate_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-9721",
+    "name": "The Pequod Harpooneer Heathcliff",
+    "nameKo": "피쿼드호 작살잡이 히스클리프",
+    "sinner": "히스클리프",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "피쿼드호"
+    ],
+    "affiliationPrimary": "피쿼드호",
+    "keywords": [
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Pequod_Harpooneer_Heathcliff",
+    "sourceRevision": 187710,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Pequod_Harpooneer_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-17692",
+    "name": "The Priest of La Manchaland Gregor",
+    "nameKo": "라만차랜드 신부 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "제3권속",
+      "혈귀",
+      "라만차랜드"
+    ],
+    "affiliationPrimary": "라만차랜드",
+    "keywords": [
+      "출혈",
+      "파열"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Priest_of_La_Manchaland_Gregor",
+    "sourceRevision": 188837,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Priest_of_La_Manchaland_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-28800",
+    "name": "The Prince of La Manchaland Meursault",
+    "nameKo": "라만차랜드 왕자 뫼르소",
+    "sinner": "뫼르소",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "라만차랜드",
+      "혈귀",
+      "제3권속"
+    ],
+    "affiliationPrimary": "라만차랜드",
+    "keywords": [
+      "출혈",
+      "파열"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Prince_of_La_Manchaland_Meursault",
+    "sourceRevision": 186953,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Prince_of_La_Manchaland_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-18049",
+    "name": "The Princess of La Manchaland Rodion",
+    "nameKo": "라만차랜드 공주 로쟈",
+    "sinner": "로쟈",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "라만차랜드",
+      "혈귀"
+    ],
+    "affiliationPrimary": "라만차랜드",
+    "keywords": [
+      "출혈",
+      "파열"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Princess_of_La_Manchaland_Rodion",
+    "sourceRevision": 188056,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Princess_of_La_Manchaland_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-34646",
+    "name": "The Ring Fauvist Docent Rodion",
+    "nameKo": "약지 야수파 도슨트 로쟈",
+    "sinner": "로쟈",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "약지",
+      "야수파",
+      "약지 도슨트"
+    ],
+    "affiliationPrimary": "약지",
+    "keywords": [
+      "출혈",
+      "침잠"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Ring_Fauvist_Docent_Rodion",
+    "sourceRevision": 188060,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Ring_Fauvist_Docent_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-34647",
+    "name": "The Ring Fauvist Student Meursault",
+    "nameKo": "약지 야수파 스튜던트 뫼르소",
+    "sinner": "뫼르소",
+    "season": "시즌 7",
+    "seasonOrder": 7,
+    "affiliation": [
+      "손가락",
+      "약지",
+      "야수파",
+      "약지 스튜던트"
+    ],
+    "affiliationPrimary": "약지",
+    "keywords": [
+      "출혈",
+      "침잠"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Ring_Fauvist_Student_Meursault",
+    "sourceRevision": 186955,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Ring_Fauvist_Student_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-2795",
+    "name": "The Ring Pointillist Student Outis",
+    "nameKo": "약지 점묘파 스튜던트 오티스",
+    "sinner": "오티스",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "손가락",
+      "약지",
+      "점묘파",
+      "약지 스튜던트"
+    ],
+    "affiliationPrimary": "약지",
+    "keywords": [
+      "화상",
+      "출혈",
+      "진동",
+      "파열",
+      "침잠"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Ring_Pointillist_Student_Outis",
+    "sourceRevision": 188543,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Ring_Pointillist_Student_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-8272",
+    "name": "The Ring Pointillist Student Yi Sang",
+    "nameKo": "약지 점묘파 스튜던트 이상",
+    "sinner": "이상",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "손가락",
+      "약지",
+      "점묘파",
+      "약지 스튜던트"
+    ],
+    "affiliationPrimary": "약지",
+    "keywords": [
+      "화상",
+      "출혈",
+      "진동",
+      "파열",
+      "침잠"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Ring_Pointillist_Student_Yi_Sang",
+    "sourceRevision": 183991,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Ring_Pointillist_Student_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-24589",
+    "name": "The Thumb East Capo IIII Meursault",
+    "nameKo": "동부 엄지 카포 IIII 뫼르소",
+    "sinner": "뫼르소",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "카포",
+      "손가락",
+      "엄지"
+    ],
+    "affiliationPrimary": "엄지",
+    "keywords": [
+      "화상",
+      "진동"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Thumb_East_Capo_IIII_Meursault",
+    "sourceRevision": 186952,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Thumb_East_Capo_IIII_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-24582",
+    "name": "The Thumb East Soldato II Sinclair",
+    "nameKo": "동부 엄지 솔다토 II 싱클레어",
+    "sinner": "싱클레어",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "솔다토",
+      "손가락",
+      "엄지"
+    ],
+    "affiliationPrimary": "엄지",
+    "keywords": [
+      "화상",
+      "진동"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Thumb_East_Soldato_II_Sinclair",
+    "sourceRevision": 188215,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Thumb_East_Soldato_II_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-8503",
+    "name": "Tingtang Gang Gangleader Hong Lu",
+    "nameKo": "대호파 두목 홍루",
+    "sinner": "홍루",
+    "season": "시즌 1",
+    "seasonOrder": 1,
+    "affiliation": [
+      "뒷골목",
+      "조직",
+      "대호파"
+    ],
+    "affiliationPrimary": "대호파",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Tingtang_Gang_Gangleader_Hong_Lu",
+    "sourceRevision": 187124,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Tingtang_Gang_Gangleader_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-4177",
+    "name": "Twinhook Pirates First Mate Gregor",
+    "nameKo": "쌍갈고리 해적단 부선장 그레고르",
+    "sinner": "그레고르",
+    "season": "시즌 3",
+    "seasonOrder": 3,
+    "affiliation": [
+      "조직",
+      "쌍갈고리 해적단"
+    ],
+    "affiliationPrimary": "쌍갈고리 해적단",
+    "keywords": [
+      "출혈",
+      "호흡"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Twinhook_Pirates_First_Mate_Gregor",
+    "sourceRevision": 188835,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Twinhook_Pirates_First_Mate_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-10167",
+    "name": "W Corp. L2 Cleanup Agent Faust",
+    "nameKo": "W사 2등급 정리 요원 파우스트",
+    "sinner": "파우스트",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "W사"
+    ],
+    "affiliationPrimary": "W사",
+    "keywords": [
+      "충전"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/W_Corp._L2_Cleanup_Agent_Faust",
+    "sourceRevision": 184474,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/W_Corp._L2_Cleanup_Agent_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-7076",
+    "name": "W Corp. L2 Cleanup Agent Hong Lu",
+    "nameKo": "W사 2등급 정리 요원 홍루",
+    "sinner": "홍루",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "W사"
+    ],
+    "affiliationPrimary": "W사",
+    "keywords": [
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/W_Corp._L2_Cleanup_Agent_Hong_Lu",
+    "sourceRevision": 187121,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/W_Corp._L2_Cleanup_Agent_Hong_Lu_Profile.png"
+  },
+  {
+    "id": "wiki-9722",
+    "name": "W Corp. L2 Cleanup Agent Meursault",
+    "nameKo": "W사 2등급 정리 요원 뫼르소",
+    "sinner": "뫼르소",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "W사"
+    ],
+    "affiliationPrimary": "W사",
+    "keywords": [
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/W_Corp._L2_Cleanup_Agent_Meursault",
+    "sourceRevision": 186946,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/W_Corp._L2_Cleanup_Agent_Meursault_Profile.png"
+  },
+  {
+    "id": "wiki-8293",
+    "name": "W Corp. L3 Cleanup Agent Don Quixote",
+    "nameKo": "W사 3등급 정리 요원 돈키호테",
+    "sinner": "돈키호테",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "W사"
+    ],
+    "affiliationPrimary": "W사",
+    "keywords": [
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/W_Corp._L3_Cleanup_Agent_Don_Quixote",
+    "sourceRevision": 186366,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/W_Corp._L3_Cleanup_Agent_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-10763",
+    "name": "W Corp. L3 Cleanup Agent Ryōshū",
+    "nameKo": "W사 3등급 정리 요원 료슈",
+    "sinner": "료슈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "W사"
+    ],
+    "affiliationPrimary": "W사",
+    "keywords": [
+      "충전"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/W_Corp._L3_Cleanup_Agent_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 186732,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/W_Corp._L3_Cleanup_Agent_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-371",
+    "name": "W Corp. L3 Cleanup Agent Yi Sang",
+    "nameKo": "W사 3등급 정리 요원 이상",
+    "sinner": "이상",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "W사"
+    ],
+    "affiliationPrimary": "W사",
+    "keywords": [
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/W_Corp._L3_Cleanup_Agent_Yi_Sang",
+    "sourceRevision": 184001,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/W_Corp._L3_Cleanup_Agent_Yi_Sang_Profile.png"
+  },
+  {
+    "id": "wiki-13302",
+    "name": "W Corp. L3 Cleanup Captain Outis",
+    "nameKo": "W사 3등급 정리 요원 팀장 오티스",
+    "sinner": "오티스",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "W사"
+    ],
+    "affiliationPrimary": "W사",
+    "keywords": [
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/W_Corp._L3_Cleanup_Captain_Outis",
+    "sourceRevision": 188548,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/W_Corp._L3_Cleanup_Captain_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-28802",
+    "name": "W Corp. L4 Cleanup Agent - CCA Heathcliff",
+    "nameKo": "W사 4등급 정리 요원 - CCA 히스클리프",
+    "sinner": "히스클리프",
+    "season": "시즌 6",
+    "seasonOrder": 6,
+    "affiliation": [
+      "W사"
+    ],
+    "affiliationPrimary": "W사",
+    "keywords": [
+      "파열",
+      "충전"
+    ],
+    "skill3Sin": "질투",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/W_Corp._L4_Cleanup_Agent_-_CCA_Heathcliff",
+    "sourceRevision": 187715,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/W_Corp._L4_Cleanup_Agent_-_CCA_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-14326",
+    "name": "Wild Hunt Heathcliff",
+    "nameKo": "와일드헌트 히스클리프",
+    "sinner": "히스클리프",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "워더링하이츠",
+      "와일드헌트"
+    ],
+    "affiliationPrimary": "워더링하이츠",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Wild_Hunt_Heathcliff",
+    "sourceRevision": 188066,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Wild_Hunt_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-3919",
+    "name": "Wuthering Heights Butler Faust",
+    "nameKo": "워더링하이츠 버틀러 파우스트",
+    "sinner": "파우스트",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "해결사",
+      "워더링하이츠"
+    ],
+    "affiliationPrimary": "워더링하이츠",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "분노",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Wuthering_Heights_Butler_Faust",
+    "sourceRevision": 188071,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Wuthering_Heights_Butler_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-9388",
+    "name": "Wuthering Heights Chief Butler Outis",
+    "nameKo": "워더링하이츠 치프 버틀러 오티스",
+    "sinner": "오티스",
+    "season": "시즌 4",
+    "seasonOrder": 4,
+    "affiliation": [
+      "해결사",
+      "워더링하이츠"
+    ],
+    "affiliationPrimary": "워더링하이츠",
+    "keywords": [
+      "침잠"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Wuthering_Heights_Chief_Butler_Outis",
+    "sourceRevision": 188547,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Wuthering_Heights_Chief_Butler_Outis_Profile.png"
+  },
+  {
+    "id": "wiki-5824",
+    "name": "Zwei Assoc. South Section 4 Faust",
+    "nameKo": "남부 츠바이 협회 4과 파우스트",
+    "sinner": "파우스트",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "츠바이 협회"
+    ],
+    "affiliationPrimary": "츠바이 협회",
+    "keywords": [],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Zwei_Assoc._South_Section_4_Faust",
+    "sourceRevision": 184476,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Zwei_Assoc._South_Section_4_Faust_Profile.png"
+  },
+  {
+    "id": "wiki-1358",
+    "name": "Zwei Assoc. South Section 4 Gregor",
+    "nameKo": "남부 츠바이 협회 4과 그레고르",
+    "sinner": "그레고르",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "츠바이 협회"
+    ],
+    "affiliationPrimary": "츠바이 협회",
+    "keywords": [],
+    "skill3Sin": "우울",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Zwei_Assoc._South_Section_4_Gregor",
+    "sourceRevision": 188834,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Zwei_Assoc._South_Section_4_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-5223",
+    "name": "Zwei Assoc. South Section 5 Rodion",
+    "nameKo": "남부 츠바이 협회 5과 로쟈",
+    "sinner": "로쟈",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "츠바이 협회"
+    ],
+    "affiliationPrimary": "츠바이 협회",
+    "keywords": [
+      "호흡"
+    ],
+    "skill3Sin": "우울",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Zwei_Assoc._South_Section_5_Rodion",
+    "sourceRevision": 188030,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Zwei_Assoc._South_Section_5_Rodion_Profile.png"
+  },
+  {
+    "id": "wiki-5939",
+    "name": "Zwei Assoc. South Section 6 Sinclair",
+    "nameKo": "남부 츠바이 협회 6과 싱클레어",
+    "sinner": "싱클레어",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "츠바이 협회"
+    ],
+    "affiliationPrimary": "츠바이 협회",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Zwei_Assoc._South_Section_6_Sinclair",
+    "sourceRevision": 188204,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Zwei_Assoc._South_Section_6_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-15722",
+    "name": "Zwei Assoc. West Section 3 Ishmael",
+    "nameKo": "서부 츠바이 협회 3과 이스마엘",
+    "sinner": "이스마엘",
+    "season": "통상",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "츠바이 협회"
+    ],
+    "affiliationPrimary": "츠바이 협회",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "탐식",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Zwei_Assoc._West_Section_3_Ishmael",
+    "sourceRevision": 187894,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Zwei_Assoc._West_Section_3_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-15833",
+    "name": "Zwei Assoc. West Section 3 Sinclair",
+    "nameKo": "서부 츠바이 협회 3과 싱클레어",
+    "sinner": "싱클레어",
+    "season": "시즌 5",
+    "seasonOrder": 5,
+    "affiliation": [
+      "해결사",
+      "츠바이 협회"
+    ],
+    "affiliationPrimary": "츠바이 협회",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Zwei_Assoc._West_Section_3_Sinclair",
+    "sourceRevision": 188208,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Zwei_Assoc._West_Section_3_Sinclair_Profile.png"
+  }
+]

@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#11100f" />
+    <meta
+      name="description"
+      content="림버스 컴퍼니 인격을 추리하는 일일 게임"
+    />
+    <title>림버스컴퍼니맞추기</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="./">림버스컴퍼니맞추기</a>
+      <button class="icon-button" id="helpButton" type="button" aria-label="게임 방법">
+        ?
+      </button>
+    </header>
+
+    <main class="page-shell">
+      <section class="intro">
+        <p class="eyebrow">DAILY IDENTITY ARCHIVE</p>
+        <h1>오늘의 인격</h1>
+        <p class="intro-copy">
+          여섯 번의 추측으로 오늘의 인격을 찾아내세요.
+        </p>
+      </section>
+
+      <section class="stats-bar" aria-label="게임 기록">
+        <div>
+          <span class="stat-label">오늘</span>
+          <strong id="todayLabel">----</strong>
+        </div>
+        <div>
+          <span class="stat-label">연속 정답</span>
+          <strong id="streakLabel">0</strong>
+        </div>
+        <div>
+          <span class="stat-label">최고 기록</span>
+          <strong id="bestLabel">0</strong>
+        </div>
+        <div>
+          <span class="stat-label">남은 추측</span>
+          <strong id="remainingLabel">6</strong>
+        </div>
+      </section>
+
+      <section class="game-card">
+        <div class="game-card-heading">
+          <div>
+            <p class="section-kicker">CASE FILE <span id="puzzleNumber">#---</span></p>
+            <h2>정답 인격을 입력하세요</h2>
+          </div>
+          <div class="heading-actions">
+            <button class="mode-button" id="practiceButton" type="button">
+              연습 모드
+            </button>
+            <span class="status-stamp" id="gameStatus">수사 중</span>
+          </div>
+        </div>
+
+        <form class="guess-form" id="guessForm" autocomplete="off">
+          <label class="sr-only" for="guessInput">인격 검색</label>
+          <div class="search-wrap">
+            <span class="search-mark" aria-hidden="true">⌕</span>
+            <input
+              id="guessInput"
+              name="guess"
+              type="text"
+              placeholder="인격 이름을 검색하세요"
+              aria-controls="suggestions"
+              aria-autocomplete="list"
+              role="combobox"
+              spellcheck="false"
+            />
+            <button class="submit-button" type="submit">추측</button>
+            <ul class="suggestions" id="suggestions" role="listbox"></ul>
+          </div>
+          <p class="form-message" id="formMessage" role="status"></p>
+        </form>
+
+        <div class="legend" aria-label="판정 색상 설명">
+          <span><i class="legend-dot exact"></i> 일치</span>
+          <span><i class="legend-dot partial"></i> 부분 일치</span>
+          <span><i class="legend-dot wrong"></i> 불일치</span>
+        </div>
+
+        <div class="table-wrap">
+          <table class="guess-table">
+            <thead>
+              <tr>
+                <th scope="col">추측 인격</th>
+                <th scope="col">수감자</th>
+                <th scope="col">시즌</th>
+                <th scope="col">소속</th>
+                <th scope="col">사용 키워드</th>
+                <th scope="col">죄악 속성<br /><small>스킬 3</small></th>
+                <th scope="col">공격 유형<br /><small>스킬 3</small></th>
+              </tr>
+            </thead>
+            <tbody id="guessRows">
+              <tr class="empty-row" id="emptyRow">
+                <td colspan="7">첫 번째 인격을 선택하면 판정 기록이 남습니다.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="result-card hidden" id="resultCard" aria-live="polite">
+        <div class="result-copy">
+          <p class="section-kicker">CASE CLOSED</p>
+          <h2 id="resultTitle">오늘의 인격</h2>
+          <p id="resultMessage"></p>
+          <div class="answer-meta" id="answerMeta"></div>
+          <div class="result-actions">
+            <button class="primary-button" id="shareButton" type="button">
+              결과 공유
+            </button>
+            <button class="secondary-button" id="practiceAgainButton" type="button">
+              연습 모드 시작
+            </button>
+            <button class="secondary-button hidden" id="practiceRetryButton" type="button">
+              다시 하기
+            </button>
+            <span class="countdown" id="countdown"></span>
+          </div>
+        </div>
+        <div class="answer-portrait">
+          <img id="answerImage" alt="" />
+          <div class="portrait-placeholder" id="portraitPlaceholder">
+            <span>IDENTITY</span>
+            <strong id="portraitInitial">?</strong>
+          </div>
+        </div>
+      </section>
+
+      <p class="source-note">
+        본 사이트는 Project Moon의 공식 서비스가 아닌 팬메이드 프로젝트입니다.<br />
+        Limbus Company 및 관련 이미지·게임 에셋의 저작권은 Project Moon 및 각 권리자에게 있습니다.
+      </p>
+    </main>
+
+    <dialog class="help-dialog" id="helpDialog">
+      <button class="dialog-close" id="closeHelpButton" type="button" aria-label="닫기">
+        ×
+      </button>
+      <p class="section-kicker">HOW TO PLAY</p>
+      <h2>오늘의 인격을 찾아라</h2>
+      <ol>
+        <li>검색창에 인격 이름을 입력하고 후보를 선택합니다.</li>
+        <li>각 항목의 색상을 보고 다음 추측을 좁혀갑니다.</li>
+        <li>초록색은 일치, 노란색은 부분 일치, 빨간색은 불일치입니다.</li>
+        <li>죄악 속성과 공격 유형은 항상 스킬 3만 판정합니다.</li>
+        <li>최대 6번 안에 맞히면 연속 정답 기록이 이어집니다.</li>
+      </ol>
+      <div class="help-key">
+        <span class="legend-dot exact"></span>
+        <span>목록형 항목은 일부만 겹쳐도 노란색으로 표시됩니다.</span>
+      </div>
+    </dialog>
+
+    <dialog class="tutorial-dialog" id="tutorialDialog">
+      <div class="tutorial-topline">
+        <p class="section-kicker">WELCOME, MANAGER</p>
+        <span class="tutorial-step">TUTORIAL 01</span>
+      </div>
+      <h2>오늘의 인격을 찾아라</h2>
+      <p class="tutorial-lead">
+        단서를 조합해 정답 인격을 최대 6번 안에 추리하세요.
+      </p>
+      <div class="tutorial-grid">
+        <article>
+          <span class="tutorial-number">01</span>
+          <h3>검색하고 확인하기</h3>
+          <p>인격을 검색하면 이름과 수감자·시즌·소속·키워드 정보를 미리 볼 수 있습니다. 미리보기만으로는 횟수가 줄지 않습니다.</p>
+        </article>
+        <article>
+          <span class="tutorial-number">02</span>
+          <h3>추측하기</h3>
+          <p>후보를 선택한 뒤 <strong>추측</strong> 버튼을 눌렀을 때만 한 번의 추측으로 기록됩니다.</p>
+        </article>
+        <article>
+          <span class="tutorial-number">03</span>
+          <h3>색상 읽기</h3>
+          <p><b class="tutorial-green">초록색</b>은 완전 일치, <b class="tutorial-yellow">노란색</b>은 목록 중 일부 일치, <b class="tutorial-red">빨간색</b>은 불일치입니다.</p>
+        </article>
+        <article>
+          <span class="tutorial-number">04</span>
+          <h3>스킬 3 기준</h3>
+          <p>죄악 속성과 공격 유형은 항상 세 번째 스킬인 <strong>스킬 3</strong>만 사용합니다.</p>
+        </article>
+      </div>
+      <div class="tutorial-clues">
+        <span class="mode-label">판정 항목</span>
+        <p>수감자 이름 · 시즌 · 게임 내 특성 키워드 · 사용 키워드 · 스킬 3 죄악 속성 · 스킬 3 공격 유형</p>
+        <p>특성 키워드와 사용 키워드는 여러 항목 중 하나라도 겹치면 부분 일치로 표시됩니다.</p>
+      </div>
+      <div class="tutorial-modes">
+        <div>
+          <span class="mode-label daily-label">일일 모드</span>
+          <p>모두가 같은 오늘의 인격을 맞힙니다. 연속 정답과 결과 공유가 적용됩니다.</p>
+        </div>
+        <div>
+          <span class="mode-label practice-label">연습 모드</span>
+          <p>하루에 몇 번이든 도전할 수 있습니다. 다시 하기를 누르면 정답이 바뀝니다.</p>
+        </div>
+      </div>
+      <div class="tutorial-actions">
+        <button class="primary-button" id="startTutorialButton" type="button">
+          시작하기
+        </button>
+      </div>
+    </dialog>
+
+    <div class="toast" id="toast" role="status"></div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
