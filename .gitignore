@@ -2,3 +2,7 @@ node_modules/
 npm-debug.log*
 .DS_Store
 
+# Local planning and review documents
+기획서.md
+검수목록.md
+할일목록.md
