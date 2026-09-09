@@ -1,4 +1,4 @@
-const MAX_GUESSES = 6;
+const MAX_GUESSES = 10;
 const STORAGE_KEY = "limbus-idle-game";
 const STATS_KEY = "limbus-idle-stats";
 const TUTORIAL_KEY = "limbus-tutorial-seen";
