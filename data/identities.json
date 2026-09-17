@@ -297,7 +297,7 @@
     "skill3Sin": "분노",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dawn_Office_Fixer_Faust",
-    "sourceRevision": 188988,
+    "sourceRevision": 189340,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dawn_Office_Fixer_Faust_Profile.png"
   },
   {
@@ -784,6 +784,48 @@
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/G_Corp._Manager_Corporal_Gregor",
     "sourceRevision": 188833,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/G_Corp._Manager_Corporal_Gregor_Profile.png"
+  },
+  {
+    "id": "wiki-40112",
+    "name": "Haute Couture::Boutique du Rouge Ishmael",
+    "nameKo": "Haute Couture::Boutique du Rouge 이스마엘",
+    "sinner": "이스마엘",
+    "season": "시즌 8",
+    "seasonOrder": 8,
+    "affiliation": [
+      "Sisyphe",
+      "Le Rouge"
+    ],
+    "affiliationPrimary": "Sisyphe",
+    "keywords": [
+      "출혈"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ABoutique_du_Rouge_Ishmael",
+    "sourceRevision": 189913,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ABoutique_du_Rouge_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-40113",
+    "name": "Haute Couture::Le Noir Footwear Hall Ryōshū",
+    "nameKo": "Haute Couture::Le Noir Footwear Hall 료슈",
+    "sinner": "료슈",
+    "season": "시즌 8",
+    "seasonOrder": 8,
+    "affiliation": [
+      "Sisyphe",
+      "Le Noir"
+    ],
+    "affiliationPrimary": "Sisyphe",
+    "keywords": [
+      "진동"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ALe_Noir_Footwear_Hall_Ry%C5%8Dsh%C5%AB",
+    "sourceRevision": 189912,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ALe_Noir_Footwear_Hall_Ry%C5%8Dsh%C5%AB_Profile.png"
   },
   {
     "id": "wiki-23368",
@@ -2385,7 +2427,7 @@
     "skill3Sin": "오만",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Night_Awls_Capitano_Gregor",
-    "sourceRevision": 188840,
+    "sourceRevision": 189338,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Night_Awls_Capitano_Gregor_Profile.png"
   },
   {
@@ -2941,7 +2983,7 @@
     "skill3Sin": "우울",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Index_Nursefather_Yi_Sang",
-    "sourceRevision": 186177,
+    "sourceRevision": 189476,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Index_Nursefather_Yi_Sang_Profile.png"
   },
   {
