@@ -148,7 +148,7 @@
     "skill3Sin": "분노",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Blade_of_the_House_of_Spiders_Ry%C5%8Dsh%C5%AB",
-    "sourceRevision": 189049,
+    "sourceRevision": 191574,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Blade_of_the_House_of_Spiders_Ry%C5%8Dsh%C5%AB_Profile.png"
   },
   {
@@ -297,7 +297,7 @@
     "skill3Sin": "분노",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dawn_Office_Fixer_Faust",
-    "sourceRevision": 189340,
+    "sourceRevision": 190507,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dawn_Office_Fixer_Faust_Profile.png"
   },
   {
@@ -319,7 +319,7 @@
     "skill3Sin": "분노",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Dawn_Office_Fixer_Sinclair",
-    "sourceRevision": 188212,
+    "sourceRevision": 190776,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Dawn_Office_Fixer_Sinclair_Profile.png"
   },
   {
@@ -742,7 +742,7 @@
     "skill3Sin": "오만",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Full-Stop_Office_Rep_Hong_Lu",
-    "sourceRevision": 187128,
+    "sourceRevision": 190753,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Full-Stop_Office_Rep_Hong_Lu_Profile.png"
   },
   {
@@ -786,6 +786,27 @@
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/G_Corp._Manager_Corporal_Gregor_Profile.png"
   },
   {
+    "id": "wiki-41379",
+    "name": "Haute Couture::Alteration Shop Rodion",
+    "nameKo": "Haute Couture::Alteration Shop 로쟈",
+    "sinner": "로쟈",
+    "season": "시즌 8",
+    "seasonOrder": 8,
+    "affiliation": [
+      "Sisyphe"
+    ],
+    "affiliationPrimary": "Sisyphe",
+    "keywords": [
+      "진동",
+      "충전"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "참격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3AAlteration_Shop_Rodion",
+    "sourceRevision": 192760,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3AAlteration_Shop_Rodion_Profile.png"
+  },
+  {
     "id": "wiki-40112",
     "name": "Haute Couture::Boutique du Rouge Ishmael",
     "nameKo": "Haute Couture::Boutique du Rouge 이스마엘",
@@ -803,7 +824,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ABoutique_du_Rouge_Ishmael",
-    "sourceRevision": 189913,
+    "sourceRevision": 192080,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ABoutique_du_Rouge_Ishmael_Profile.png"
   },
   {
@@ -824,7 +845,7 @@
     "skill3Sin": "나태",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ALe_Noir_Footwear_Hall_Ry%C5%8Dsh%C5%AB",
-    "sourceRevision": 189912,
+    "sourceRevision": 192033,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ALe_Noir_Footwear_Hall_Ry%C5%8Dsh%C5%AB_Profile.png"
   },
   {
@@ -847,7 +868,7 @@
     "skill3Sin": "탐식",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Heishou_Pack_-_Mao_Branch_Adept_Faust",
-    "sourceRevision": 184485,
+    "sourceRevision": 190513,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Heishou_Pack_-_Mao_Branch_Adept_Faust_Profile.png"
   },
   {
@@ -1912,7 +1933,7 @@
     "skill3Sin": "질투",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3AIn_the_Name_of_Love_and_Hate_Don_Quixote",
-    "sourceRevision": 186376,
+    "sourceRevision": 191757,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3AIn_the_Name_of_Love_and_Hate_Don_Quixote_Profile.png"
   },
   {
@@ -1998,7 +2019,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3ARed_Eyes_%26_Penitence_Ry%C5%8Dsh%C5%AB",
-    "sourceRevision": 189060,
+    "sourceRevision": 190638,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3ARed_Eyes_%26_Penitence_Ry%C5%8Dsh%C5%AB_Profile.png"
   },
   {
@@ -2301,7 +2322,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/N_Corp._E.G.O%3A%3AContempt%2C_Awe_Ry%C5%8Dsh%C5%AB",
-    "sourceRevision": 186736,
+    "sourceRevision": 190661,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/N_Corp._E.G.O%3A%3AContempt%2C_Awe_Ry%C5%8Dsh%C5%AB_Profile.png"
   },
   {
@@ -2491,7 +2512,7 @@
     "skill3Sin": "분노",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/R_Corp._4th_Pack_Reindeer_Hong_Lu",
-    "sourceRevision": 187130,
+    "sourceRevision": 191916,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/R_Corp._4th_Pack_Reindeer_Hong_Lu_Profile.png"
   },
   {
@@ -2687,7 +2708,7 @@
     "skill3Sin": "오만",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/S_Corp._Ch'unokkun_Hong_Lu",
-    "sourceRevision": 187136,
+    "sourceRevision": 191111,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/S_Corp._Ch'unokkun_Hong_Lu_Profile.png"
   },
   {
@@ -2814,7 +2835,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Shi_Assoc._East_Section_3_Faust",
-    "sourceRevision": 184530,
+    "sourceRevision": 190520,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Shi_Assoc._East_Section_3_Faust_Profile.png"
   },
   {
@@ -3051,7 +3072,7 @@
     "skill3Sin": "분노",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Pinky_Apprentice_Sinclair",
-    "sourceRevision": 188217,
+    "sourceRevision": 190813,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Pinky_Apprentice_Sinclair_Profile.png"
   },
   {
@@ -3075,7 +3096,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Ring_Apprentice_Faust",
-    "sourceRevision": 188987,
+    "sourceRevision": 190528,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Ring_Apprentice_Faust_Profile.png"
   },
   {
@@ -3197,7 +3218,7 @@
     "skill3Sin": "우울",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Index_Proxy_-_Effloresced_E.G.O%3A%3AProcuration_Don_Quixote",
-    "sourceRevision": 186375,
+    "sourceRevision": 192421,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Index_Proxy_-_Effloresced_E.G.O%3A%3AProcuration_Don_Quixote_Profile.png"
   },
   {
@@ -3240,7 +3261,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Manager_of_La_Manchaland_Don_Quixote",
-    "sourceRevision": 186401,
+    "sourceRevision": 190565,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Manager_of_La_Manchaland_Don_Quixote_Profile.png"
   },
   {
@@ -3390,7 +3411,7 @@
     "skill3Sin": "분노",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Pequod_Captain_Ishmael",
-    "sourceRevision": 187893,
+    "sourceRevision": 191004,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Pequod_Captain_Ishmael_Profile.png"
   },
   {
@@ -3478,7 +3499,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Prince_of_La_Manchaland_Meursault",
-    "sourceRevision": 186953,
+    "sourceRevision": 191499,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Prince_of_La_Manchaland_Meursault_Profile.png"
   },
   {
