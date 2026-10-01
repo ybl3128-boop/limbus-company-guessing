@@ -275,7 +275,7 @@
     "skill3Sin": "우울",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Cinq_Assoc._West_Section_3_Meursault",
-    "sourceRevision": 186951,
+    "sourceRevision": 194467,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Cinq_Assoc._West_Section_3_Meursault_Profile.png"
   },
   {
@@ -803,7 +803,7 @@
     "skill3Sin": "나태",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3AAlteration_Shop_Rodion",
-    "sourceRevision": 192760,
+    "sourceRevision": 195041,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3AAlteration_Shop_Rodion_Profile.png"
   },
   {
@@ -824,8 +824,30 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ABoutique_du_Rouge_Ishmael",
-    "sourceRevision": 192080,
+    "sourceRevision": 194454,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ABoutique_du_Rouge_Ishmael_Profile.png"
+  },
+  {
+    "id": "wiki-42218",
+    "name": "Haute Couture::Le Noir Brand Manager Don Quixote",
+    "nameKo": "Haute Couture::Le Noir Brand Manager 돈키호테",
+    "sinner": "돈키호테",
+    "season": "시즌 8",
+    "seasonOrder": 8,
+    "affiliation": [
+      "Sisyphe",
+      "Le Noir"
+    ],
+    "affiliationPrimary": "Sisyphe",
+    "keywords": [
+      "진동",
+      "충전"
+    ],
+    "skill3Sin": "나태",
+    "skill3AttackType": "타격",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ALe_Noir_Brand_Manager_Don_Quixote",
+    "sourceRevision": 195077,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ALe_Noir_Brand_Manager_Don_Quixote_Profile.png"
   },
   {
     "id": "wiki-40113",
@@ -845,7 +867,7 @@
     "skill3Sin": "나태",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ALe_Noir_Footwear_Hall_Ry%C5%8Dsh%C5%AB",
-    "sourceRevision": 192033,
+    "sourceRevision": 195033,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ALe_Noir_Footwear_Hall_Ry%C5%8Dsh%C5%AB_Profile.png"
   },
   {
@@ -3261,7 +3283,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Manager_of_La_Manchaland_Don_Quixote",
-    "sourceRevision": 190565,
+    "sourceRevision": 195030,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Manager_of_La_Manchaland_Don_Quixote_Profile.png"
   },
   {
