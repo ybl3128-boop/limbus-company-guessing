@@ -192,7 +192,7 @@
     "skill3Sin": "오만",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Cinq_Assoc._East_Section_3_Hong_Lu",
-    "sourceRevision": 189035,
+    "sourceRevision": 197539,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Cinq_Assoc._East_Section_3_Hong_Lu_Profile.png"
   },
   {
@@ -803,7 +803,7 @@
     "skill3Sin": "나태",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3AAlteration_Shop_Rodion",
-    "sourceRevision": 195041,
+    "sourceRevision": 197542,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3AAlteration_Shop_Rodion_Profile.png"
   },
   {
@@ -824,7 +824,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ABoutique_du_Rouge_Ishmael",
-    "sourceRevision": 194454,
+    "sourceRevision": 197556,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ABoutique_du_Rouge_Ishmael_Profile.png"
   },
   {
@@ -846,7 +846,7 @@
     "skill3Sin": "나태",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ALe_Noir_Brand_Manager_Don_Quixote",
-    "sourceRevision": 197018,
+    "sourceRevision": 198259,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ALe_Noir_Brand_Manager_Don_Quixote_Profile.png"
   },
   {
@@ -869,6 +869,28 @@
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ALe_Noir_Footwear_Hall_Ry%C5%8Dsh%C5%AB",
     "sourceRevision": 197047,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ALe_Noir_Footwear_Hall_Ry%C5%8Dsh%C5%AB_Profile.png"
+  },
+  {
+    "id": "wiki-43286",
+    "name": "Haute Couture::The Crimson God of Le Rouge Sinclair",
+    "nameKo": "Haute Couture::The Crimson God of Le Rouge 싱클레어",
+    "sinner": "싱클레어",
+    "season": "시즌 8",
+    "seasonOrder": 8,
+    "affiliation": [
+      "Sisyphe",
+      "Le Rouge"
+    ],
+    "affiliationPrimary": "Sisyphe",
+    "keywords": [
+      "출혈",
+      "충전"
+    ],
+    "skill3Sin": "색욕",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3AThe_Crimson_God_of_Le_Rouge_Sinclair",
+    "sourceRevision": 198256,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3AThe_Crimson_God_of_Le_Rouge_Sinclair_Profile.png"
   },
   {
     "id": "wiki-23368",
@@ -1372,7 +1394,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCB_Sinner_Heathcliff",
-    "sourceRevision": 187688,
+    "sourceRevision": 197245,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCB_Sinner_Heathcliff_Profile.png"
   },
   {
@@ -1630,7 +1652,7 @@
     "skill3Sin": "오만",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/LCD_OSIR_Team_Ishmael",
-    "sourceRevision": 187899,
+    "sourceRevision": 197541,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/LCD_OSIR_Team_Ishmael_Profile.png"
   },
   {
@@ -2385,7 +2407,7 @@
     "skill3Sin": "오만",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/N_Corp._Gro%C3%9Fhammer_Meursault",
-    "sourceRevision": 186947,
+    "sourceRevision": 197423,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/N_Corp._Gro%C3%9Fhammer_Meursault_Profile.png"
   },
   {
@@ -3073,7 +3095,7 @@
     "skill3Sin": "질투",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_House_of_Spiders%3A_The_Middle_Nursefather_Outis",
-    "sourceRevision": 197058,
+    "sourceRevision": 197906,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_House_of_Spiders%3A_The_Middle_Nursefather_Outis_Profile.png"
   },
   {
