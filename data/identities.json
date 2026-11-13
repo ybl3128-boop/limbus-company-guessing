@@ -17,7 +17,7 @@
     "skill3Sin": "분노",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Blade_Lineage_Mentor_Meursault",
-    "sourceRevision": 200584,
+    "sourceRevision": 201317,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Blade_Lineage_Mentor_Meursault_Profile.png"
   },
   {
@@ -148,7 +148,7 @@
     "skill3Sin": "분노",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Blade_of_the_House_of_Spiders_Ry%C5%8Dsh%C5%AB",
-    "sourceRevision": 200496,
+    "sourceRevision": 201342,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Blade_of_the_House_of_Spiders_Ry%C5%8Dsh%C5%AB_Profile.png"
   },
   {
@@ -691,16 +691,17 @@
     "season": "시즌 5",
     "seasonOrder": 5,
     "affiliation": [
-      "해결사"
+      "해결사",
+      "Firefist Office"
     ],
-    "affiliationPrimary": "해결사",
+    "affiliationPrimary": "Firefist Office",
     "keywords": [
       "화상"
     ],
     "skill3Sin": "분노",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Firefist_Office_Survivor_Gregor",
-    "sourceRevision": 200555,
+    "sourceRevision": 202160,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Firefist_Office_Survivor_Gregor_Profile.png"
   },
   {
@@ -742,7 +743,7 @@
     "skill3Sin": "오만",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Full-Stop_Office_Rep_Hong_Lu",
-    "sourceRevision": 200880,
+    "sourceRevision": 201435,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Full-Stop_Office_Rep_Hong_Lu_Profile.png"
   },
   {
@@ -803,7 +804,7 @@
     "skill3Sin": "나태",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3AAlteration_Shop_Rodion",
-    "sourceRevision": 200695,
+    "sourceRevision": 201173,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3AAlteration_Shop_Rodion_Profile.png"
   },
   {
@@ -867,7 +868,7 @@
     "skill3Sin": "나태",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ALe_Noir_Brand_Manager_Don_Quixote",
-    "sourceRevision": 200559,
+    "sourceRevision": 201035,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ALe_Noir_Brand_Manager_Don_Quixote_Profile.png"
   },
   {
@@ -909,7 +910,7 @@
     "skill3Sin": "분노",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Haute_Couture%3A%3ALe_Rouge_King_of_Needleworks_Heathcliff",
-    "sourceRevision": 200994,
+    "sourceRevision": 202121,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Haute_Couture%3A%3ALe_Rouge_King_of_Needleworks_Heathcliff_Profile.png"
   },
   {
@@ -2019,7 +2020,7 @@
     "skill3Sin": "질투",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3AIn_the_Name_of_Love_and_Hate_Don_Quixote",
-    "sourceRevision": 200557,
+    "sourceRevision": 202052,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3AIn_the_Name_of_Love_and_Hate_Don_Quixote_Profile.png"
   },
   {
@@ -2234,7 +2235,7 @@
     "skill3Sin": "오만",
     "skill3AttackType": "관통",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Lobotomy_E.G.O%3A%3AThe_Sword_Sharpened_with_Tears_Rodion",
-    "sourceRevision": 200691,
+    "sourceRevision": 202054,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Lobotomy_E.G.O%3A%3AThe_Sword_Sharpened_with_Tears_Rodion_Profile.png"
   },
   {
@@ -2321,7 +2322,7 @@
     "skill3Sin": "나태",
     "skill3AttackType": "타격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Molar_Office_Fixer_Outis",
-    "sourceRevision": 200637,
+    "sourceRevision": 201361,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Molar_Office_Fixer_Outis_Profile.png"
   },
   {
@@ -3585,7 +3586,7 @@
     "skill3Sin": "색욕",
     "skill3AttackType": "참격",
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/The_Prince_of_La_Manchaland_Meursault",
-    "sourceRevision": 200589,
+    "sourceRevision": 201438,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/The_Prince_of_La_Manchaland_Meursault_Profile.png"
   },
   {
@@ -3967,6 +3968,72 @@
     "sourceUrl": "https://limbuscompany.wiki.gg/wiki/W_Corp._L4_Cleanup_Agent_-_CCA_Heathcliff",
     "sourceRevision": 200632,
     "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/W_Corp._L4_Cleanup_Agent_-_CCA_Heathcliff_Profile.png"
+  },
+  {
+    "id": "wiki-43899",
+    "name": "Wedge Office Fixer Don Quixote",
+    "nameKo": "Wedge Office 해결사 돈키호테",
+    "sinner": "돈키호테",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "Wedge Office"
+    ],
+    "affiliationPrimary": "Wedge Office",
+    "keywords": [
+      "진동",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Wedge_Office_Fixer_Don_Quixote",
+    "sourceRevision": 202131,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Wedge_Office_Fixer_Don_Quixote_Profile.png"
+  },
+  {
+    "id": "wiki-43898",
+    "name": "Wedge Office Fixer Sinclair",
+    "nameKo": "Wedge Office 해결사 싱클레어",
+    "sinner": "싱클레어",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "Wedge Office"
+    ],
+    "affiliationPrimary": "Wedge Office",
+    "keywords": [
+      "진동",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Wedge_Office_Fixer_Sinclair",
+    "sourceRevision": 202133,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Wedge_Office_Fixer_Sinclair_Profile.png"
+  },
+  {
+    "id": "wiki-43906",
+    "name": "Wedge Office Rep Outis",
+    "nameKo": "Wedge Office 대표 오티스",
+    "sinner": "오티스",
+    "season": "발푸르기스의 밤",
+    "seasonOrder": null,
+    "affiliation": [
+      "해결사",
+      "Wedge Office"
+    ],
+    "affiliationPrimary": "Wedge Office",
+    "keywords": [
+      "진동",
+      "호흡"
+    ],
+    "skill3Sin": "오만",
+    "skill3AttackType": "관통",
+    "sourceUrl": "https://limbuscompany.wiki.gg/wiki/Wedge_Office_Rep_Outis",
+    "sourceRevision": 202083,
+    "imageUrl": "https://limbuscompany.wiki.gg/wiki/Special:Redirect/file/Wedge_Office_Rep_Outis_Profile.png"
   },
   {
     "id": "wiki-14326",
